@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id = "1" Testo = "episode: Blood Under the Skin Finn was looking armor Zeldron" Risposta = "TRUE" />
+    <Domanda id = "2" Testo = "armor Zeldron and 'kept in a haunted castle" Risposta = "FALSE" />
+    <Domanda id = "3" Testo = "Snorlock the end of the episode becomes engaged to a snail" Risposta = "FALSE" />
+    <Domanda id = "4" Testo = "Jake plays the violin" Risposta = "TRUE" />
+    <Domanda id = "5" Testo = "Jake and 'born from the head of the mother because' a monster-changer has bite" Risposta = "FALSE" />
+    <Domanda id = "6" Testo = "episode: Power Animal Finn is kidnapped by some gnomes" Risposta = "TRUE" />
+    <Domanda id = "7" Testo = "Melvaerde crazy after eating a cake of apples" Risposta = "FALSE" />
+    <Domanda id = "8" Testo = "episode: To Cut a Woman's Hair Finn off his cap for the first time" Risposta = "TRUE" />
+    <Domanda id = "9" Testo = "episode: The Pods in the first pod Beanstalk out of pigs" Risposta = "TRUE" />
+    <Domanda id = "10" Testo = "The pigs appeared out of one of the magic beans are allergic to chocolate" Risposta = "FALSE" />
+    <Domanda id = "11" Testo = "Finn was the King of the Goblins" Risposta = "TRUE" />
+    <Domanda id = "12" Testo = "Finn was the king of the gnomes" Risposta = "FALSE" />
+    <Domanda id = "13" Testo = "episode: The True You  Finn become intelligent wearing glasses" Risposta = "TRUE" />
+    <Domanda id = "14" Testo = "episode: The True you Finn closes the black hole with a magic stick" Risposta = "FALSE" />
+    <Domanda id = "15" Testo = "Sleepy Sam Bouncy Bee Hunny Bunny are the enemies of the game BMO" Risposta = "TRUE" />
+    <Domanda id = "16" Testo = "Susan lives with his tribe of Uma-cats" Risposta = "FALSE" />
+    <Domanda id = "17" Testo = "episode: Mystery Train Finn celebrates 13 years" Risposta = "TRUE" />
+    <Domanda id = "18" Testo = "Ananaso appears for the third time: The Return of Sweet Zombie" Risposta = "FALSE" />
+    <Domanda id = "19" Testo = "Ananaso wearing stockings green" Risposta = "TRUE" />
+    <Domanda id = "20" Testo = "episode: Go With Me Finn sees the film with Bubblegum" Risposta = "FALSE" />
+    <Domanda id = "21" Testo = "The most big dream of Finn and Jake and' have a Psychic Tandem War Elephant" Risposta = "TRUE" />
+    <Domanda id = "22" Testo = "episode: The Limit Finn and Jake meet knights Hot Dog" Risposta = "TRUE" />
+    <Domanda id = "23" Testo = "The name of Billy was mentioned for the first time in Mortal Folly" Risposta = "TRUE" />
+    <Domanda id = "24" Testo = "The Lich appears for the first time in Mortal Folly" Risposta = "FALSE" />
+    <Domanda id = "25" Testo = "episode: Back deadly Bubblegum returns to be 13 years" Risposta = "TRUE" />
+    <Domanda id = "26" Testo = "Wendy Booboo and Georgy are a gang of thugs" Risposta = "FALSE" />
+    <Domanda id = "27" Testo = "Wendy Booboo and Georgy living in Via Blood 25" Risposta = "TRUE" />
+    <Domanda id = "28" Testo = "Marceline is sucking the blood and is the color red" Risposta = "FALSE" />
+    <Domanda id = "29" Testo = "Marceline has more 'than 1000 years" Risposta = "TRUE" />
+    <Domanda id = "30" Testo = "Simon Petrikov gives the puppet Hambo in Marceline" Risposta = "TRUE" />
+    <Domanda id = "31" Testo = "Marceline plays guitar-ax" Risposta = "FALSE" />
+    <Domanda id = "32" Testo = "The Cute King appear for the first time: Conquest of Cuteness" Risposta = "TRUE" />
+    <Domanda id = "33" Testo = "Jermaine can communicate with Jake if both dream at the same time" Risposta = "TRUE" />
+    <Domanda id = "34" Testo = "Joshua and Margaret Finn are in bands attached to a leaf" Risposta = "TRUE" />
+    <Domanda id = "35" Testo = "Joshua built the secret to strengthen and temper Jake" Risposta = "FALSE" />
+    <Domanda id = "36" Testo = "Lemongrab appears for the first time in: Too Young '" Risposta = "TRUE" />
+    <Domanda id = "37" Testo = "Lemongrab more high Bubblegum" Risposta = "FALSE" />
+    <Domanda id = "38" Testo = "Lemongrab is the first unsuccessful experiment of Bubblegum" Risposta = "TRUE" />
+    <Domanda id = "39" Testo = "episode: The Battle of Wizards the prize for victory and 'a magic wand" Risposta = "FALSE" />
+    <Domanda id = "40" Testo = "Cake and a character invented by Ice King" Risposta = "TRUE" />
+    <Domanda id = "41" Testo = "The Owl cosmic tells Ice King and 'a sociopath" Risposta = "TRUE" />
+    <Domanda id = "42" Testo = "Apples in the language of the criminals are diamonds" Risposta = "TRUE" />
+    <Domanda id = "43" Testo = "episode: The Creeps appears for the first time Brad" Risposta = "FALSE" />
+    <Domanda id = "44" Testo = "Brad is the boyfriend of Melissa" Risposta = "TRUE" />
+    <Domanda id = "45" Testo = "Finn and Jake Ice King learn to be friends for a Snow Golem and a Wolf of Fire" Risposta = "TRUE" />
+    <Domanda id = "46" Testo = "episode: Secrets Christmas Finn and Jake discover the story of Ice King" Risposta = "TRUE" />
+    <Domanda id = "47" Testo = "episode: Paper Pete  Finn and Jake enter the home of Marceline" Risposta = "FALSE" />
+    <Domanda id = "48" Testo = "The sovereign of Nightosphere is Queen of werewolves" Risposta = "FALSE" />
+    <Domanda id = "49" Testo = "To enter the Nightosphere must recite: MALOSO Vobiscum ET CUM Spiritum!" Risposta = "TRUE" />
+    <Domanda id = "50" Testo = "Finn delivered the torch to Enchiridion" Risposta = "FALSE" />
+    <Domanda id = "51" Testo = "Goliad is a cat pink telepath created by Bubblegum" Risposta = "TRUE" />
+    <Domanda id = "52" Testo = "Wing was created by Bubblegum with the DNA of Finn" Risposta = "TRUE" />
+    <Domanda id = "53" Testo = "BMO is a video game console male" Risposta = "FALSE" />
+    <Domanda id = "54" Testo = "Grob Gob Glob Grod is a God of Earth Ooo" Risposta = "TRUE" />
+    <Domanda id = "55" Testo = "BMO detective tries to solve the mystery of the cap disappeared Finn" Risposta = "FALSE" />
+    <Domanda id = "56" Testo = "Gunter in reality is Orgalorg" Risposta = "TRUE" />
+    <Domanda id = "57" Testo = "The puppies are Jake: Charlie Kil Kim Whan Jake Jr. TV and Viola" Risposta = "TRUE" />
+    <Domanda id = "58" Testo = "TV is the favorite son Jake" Risposta = "FALSE" />
+    <Domanda id = "59" Testo = "When Finn shaves hair becomes Denver" Risposta = "FALSE" />
+    <Domanda id = "60" Testo = "Davey and 'the alter ego of Finn" Risposta = "TRUE" />
+    <Domanda id = "61" Testo = "Bolla BMO asks her to marry him" Risposta = "TRUE" />
+    <Domanda id = "62" Testo = "James Baxter is a horse on a beach ball that repeats his name" Risposta = "TRUE" />
+    <Domanda id = "63" Testo = "James Baxter is an animator who worked for Disney and Dreamworks" Risposta = "TRUE" />
+    <Domanda id = "64" Testo = "The pilot episode of Adventure Time, was broadcast in 2009" Risposta = "FALSE" />
+    <Domanda id = "65" Testo = "The first episode of the first season was sent in April of 2010" Risposta = "TRUE" />
+    <Domanda id = "66" Testo = "episode :Brother in Insomnia is the episode ever broadcast" Risposta = "TRUE" />
+    <Domanda id = "67" Testo = "Marshall Lee has the bite mark on the right side of the neck" Risposta = "FALSE" />
+    <Domanda id = "68" Testo = "Lady Rainicorn  can walk through walls" Risposta = "TRUE" />
+    <Domanda id = "69" Testo = "Lady Rainicorn  lives in the Forest of Cotton Candy" Risposta = "TRUE" />
+    <Domanda id = "70" Testo = "Lady Rainicorn  speaks the ancient Aramaic" Risposta = "FALSE" />
+    <Domanda id = "71" Testo = "Marceline tells Finn and Jake about her and the Ice King of the past 996 years before" Risposta = "TRUE" />
+    <Domanda id = "72" Testo = "Ice King creates a virus that deletes anything except him and Finn" Risposta = "FALSE" />
+    <Domanda id = "73" Testo = "Roselinen and a girl pillow" Risposta = "TRUE" />
+    <Domanda id = "74" Testo = "During a Firestorm Jake built a small fort of pillows" Risposta = "FALSE" />
+    <Domanda id = "75" Testo = "Finn in World Pillow had two sons, Jay and Bonnie" Risposta = "TRUE" />
+    <Domanda id = "76" Testo = "Shoko and 'lived 300 years before Finn" Risposta = "TRUE" />
+    <Domanda id = "77" Testo = "Shoko dies Candy Kingdom" Risposta = "FALSE" />
+    <Domanda id = "78" Testo = "Finn is a cat with a box on his head and discovers that 'a prince" Risposta = "TRUE" />
+    <Domanda id = "79" Testo = "Only Finn Jake Banana Man repair the truck" Risposta = "FALSE" />
+    <Domanda id = "80" Testo = "Former husbands Tree Trunks are: Randy Wyatt Danny" Risposta = "TRUE" />
+    <Domanda id = "81" Testo = "Lemonhope was created by Bubblegum" Risposta = "FALSE" />
+    <Domanda id = "82" Testo = "One of the crimes cosmic is 'kill Prismo" Risposta = "TRUE" />
+    <Domanda id = "83" Testo = "The real father of Finn called Marten" Risposta = "FALSE" />
+    <Domanda id = "84" Testo = "The mother of Finn called Clara" Risposta = "FALSE" />
+    <Domanda id = "85" Testo = "PSB creates a fanfiction on Fionna and Cake" Risposta = "TRUE" />
+    <Domanda id = "86" Testo = "A day trip Ice King and Abracadaniel meet a guy and call him John" Risposta = "FALSE" />
+    <Domanda id = "87" Testo = "Gunter was a disciple of Evergreen" Risposta = "TRUE" />
+    <Domanda id = "88" Testo = "The witch Maya buy from Ash Hambo" Risposta = "TRUE" />
+    <Domanda id = "89" Testo = "Bubblegum has ever exclaimed, Oh My Glob!?" Risposta = "TRUE" />
+    <Domanda id = "90" Testo = "episode Frost and Fire Finn and Flame are left" Risposta = "TRUE" />
+    <Domanda id = "91" Testo = "Darren is one of the warriors who killed Pricipessa Ghost" Risposta = "FALSE" />
+    <Domanda id = "92" Testo = "Clarence is one of the warriors who killed Pricipessa Ghost" Risposta = "TRUE" />
+    <Domanda id = "93" Testo = "The Amulet of Nottesfera and 'purple oval with a gold chain" Risposta = "FALSE" />
+    <Domanda id = "94" Testo = "In the house of the embrace werewolf Jake read the Book of Beasts" Risposta = "TRUE" />
+    <Domanda id = "95" Testo = "Princess Princess Princess has 4 heads" Risposta = "FALSE" />
+    <Domanda id = "96" Testo = "Crystal Apple is located in Forest Evil" Risposta = "TRUE" />
+    <Domanda id = "97" Testo = "Crystal Apple and 'protected by a guardian stone" Risposta = "FALSE" />
+    <Domanda id = "98" Testo = "Shakerino communicates only through gestures" Risposta = "FALSE" />
+    <Domanda id = "99" Testo = "Shakerino feeds designs that detaches from the sheets" Risposta = "TRUE" />
+    <Domanda id = "100" Testo = "Duke Walnut suffers from deficiency Pudding" Risposta = "TRUE" />
+  <Domanda id="101"
+           Testo="Princess Bubblegum gives Shoko a mechanical arm" Risposta="TRUE" />
+  <Domanda id="102"
+           Testo="Betty is Simon's Girlfriend" Risposta="TRUE" />
+  <Domanda id="103"
+           Testo="The crown of Ice king have 3 gems" Risposta="True" />
+</Quiz>

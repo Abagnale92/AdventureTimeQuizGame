@@ -1,0 +1,37 @@
+﻿<Page x:ConnectionId='1'
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    x:Class="Adventure_Time_Quiz.level"
+    mc:Ignorable="d"                                     >
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/middlepage.png"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Center" Height="165" Margin="0" VerticalAlignment="Center" Width="355" Source="immagine/sfondotextbloc.png" Stretch="Fill"/>
+
+        <TextBlock x:Name="Domanda" Margin="0" TextWrapping="Wrap" Text="TextBlock" Height="145" Width="335" Foreground="#FFF90909" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="22" SelectionHighlightColor="#99F1DC07"/>
+        <Button x:ConnectionId='2'  x:Name="risp1" Content="Button" HorizontalAlignment="Center" Margin="5,-2,4,-2" VerticalAlignment="Center"                       Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Grid.Row="1" Width="375" Height="84"/>
+        <Button x:ConnectionId='3'  x:Name="risp2" Content="Button" HorizontalAlignment="Center" Margin="5,-2,4,-2" VerticalAlignment="Center"                       Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Grid.Row="2" Width="375" Height="84"/>
+        <Button x:ConnectionId='4'  x:Name="risp3" Content="Button" HorizontalAlignment="Center" Margin="5,-2,4,-2" VerticalAlignment="Center"                       Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Grid.Row="3" Width="375" Height="84"/>
+        <Button x:ConnectionId='5'  x:Name="risp4" Content="Button" HorizontalAlignment="Center" Margin="5,-2,4,-2" VerticalAlignment="Center"                       Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Grid.Row="4" Width="375" Height="84"/>
+        <TextBlock x:Name="Errore" HorizontalAlignment="Right" Margin="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="104" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="20" Foreground="Red"/>
+
+        <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="20b705f4-c9e3-4e4a-854f-cc74300e1407" AdUnitId="221221" HorizontalAlignment="Center" Height="50" IsAutoRefreshEnabled="True" Margin="0" Grid.Row="5" VerticalAlignment="Bottom" Width="320"/>
+        <Button x:ConnectionId='6'  x:Name="prova" Content="" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Top" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24"                       Visibility="Collapsed"/>
+
+    </Grid>
+</Page>
+

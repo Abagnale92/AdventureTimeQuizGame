@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id = "1" Testo = "In Animated Short as our protagonist is called?" Risposta = "Pen" Errata1 = "Den" Errata2 = "Mel" Errata3 = "Finn" />
+  <Domanda id = "2" Testo = "In Animated Short how old they are our heroes?" Risposta = "24 and 28" Errata1 = "13 and 28" Errata2 = "13 and 25" Errata3 = "24 and 26" />
+     <Domanda id = "3" Testo = "episode: Slumber Party Panic where are Finn and Bubblegum?" Risposta = "Cemetery" Errata1 = "Tree House" Errata2 = "Ice Kingdom" Errata3 = "Laboratory" />
+     <Domanda id = "4" Testo = "Bubblegum about who test serum Desalmatore?" Risposta = "Mr. Bombardino" Errata1 = "Mr. Pasticiotto" Errata2 = "Starchy" Errata3 = "Peppermint Butler" />
+     <Domanda id = "5" Testo = "episode: Prisoners of love are locked 7 princesses who is not there?" Risposta = "Muscle Princess " Errata1 = "Ghost Princess" Errata2 = "LSB" Errata3 = "Emerald Princess" />
+     <Domanda id = "6" Testo = "episode: Prisoners of love Ice King agrees to do what the princess?" Risposta = "Play a strument" Errata1 = "Singing" Errata2 = "Cooking" Errata3 = "Cleaning while" />
+     <Domanda id = "7" Testo = "episode Shakerino as called watermelon saved by Finn and Jake?" Risposta = "Stanley" Errata1 = "Danny" Errata2 = "Stuart" Errata3 = "Ed" />
+     <Domanda id = "8" Testo = "What feeds Shakerino?" Risposta = "Drawings" Errata1 = "Smoothies" Errata2 = "Bacon" Errata3 = "Sheets of Paper" />
+     <Domanda id = "9" Testo = "episode:  Business Time, the men trapped in the ice of that era are?" Risposta = "XXI Century" Errata1 = "XXII Century" Errata2 = "XX century" Errata3 = "XXIII century" />
+     <Domanda id = "10" Testo = "Where lives Shelby?" Risposta = "The violin Jake" Errata1 = "The tree house" Errata2 = "Dolcelandia" Errata3 = "In the evil forest" />
+     <Domanda id = "11" Testo = "What is the color the t-shirt of Tiffany?" Risposta = "Rosa" Errata1 = "Yellow" Errata2 = "Blue" Errata3 = "Red" />
+     <Domanda id = "12" Testo = "Who are the two people prefer to Jake?" Risposta = "Finn and Lady Rainicorn" Errata1 = "Lady Rainicorn and Bubblegum" Errata2 = "Finn and Flame" Errata3 = "Gunter and Ice King" />
+     <Domanda id = "13" Testo = "Where is the universal translator used to understand the words of Lady Rainicorn?" Risposta = "Evil Forest" Errata1 = "Lake Celeson" Errata2 = "Ice Kingdom" Errata3 = "Nightosphere" />
+     <Domanda id = "14" Testo = "What language speaks Lady Rainicorn?" Risposta = "Korean" Errata1 = "Chinese Mandarin" Errata2 = "Indian" Errata3 = "Arab" />
+     <Domanda id = "15" Testo = "What do you mean when Finn says: Boom Boom?" Risposta = "Defecating" Errata1 = "Fighting" Errata2 = "Eating" Errata3 = "Shoot" />
+     <Domanda id = "16" Testo = "Who offers magical powers free to Finn and Jake?" Risposta = "Death" Errata1 = "Bufo Sorcerer" Errata2 = "Abracadaniel" Errata3 = "The Magic Man" />
+     <Domanda id = "17" Testo = "Bufo and the Sorcerer ':" Risposta = "A Toad" Errata1 = "A Mouse" Errata2 = "A Cat" Errata3 = "A Bird" />
+     <Domanda id = "18" Testo = "What is engraved on the bark of the tree house?" Risposta = "The M Marceline" Errata1 = "A heart with the initials FJ" Errata2 = "BMO" Errata3 = "A heart with the initials JI" />
+     <Domanda id = "19" Testo = "In the city of thieves who tries to help Finn?" Risposta = "Penny" Errata1 = "Betty" Errata2 = "Danny" Errata3 = "Phil" />
+     <Domanda id = "20" Testo = "In which episode of the first season appears the slug?" Risposta = "appears in all the episodes" Errata1 = "bitorzolo Werewolf" Errata2 = "Tree Trunks" Errata3 = "Donny" />
+     <Domanda id = "21" Testo = "episode: Freak City thing to Finn to the beggar?" Risposta = "sugar cube" Errata1 = "candy" Errata2 = "sandwich" Errata3 = "slice of cake" />
+     <Domanda id = "22" Testo = "Who is Lisby?" Risposta = "Butler of Duke of the Nuts" Errata1 = "Candy man" Errata2 = "Guardian of Nightosphere" Errata3 = "Ex-husband Tree Trunks" />
+     <Domanda id = "23" Testo = "Marceline plays:" Risposta = "The Bass" Errata1 = "The Violin" Errata2 = "Guitar" Errata3 = "The Battery" />
+     <Domanda id = "24" Testo = "episode: Rainy Day Daydream, thing raining from the sky?" Risposta = "Daggers" Errata1 = "Forks" Errata2 = "Spoons" Errata3 = "Candy" />
+     <Domanda id = "25" Testo = "About sickens Ice King with snow caused by his beard?" Risposta = "Candy People" Errata1 = "Finn and Jake" Errata2 = "Princess Bubblegum" Errata3 = "Lady Rainicorn" />
+     <Domanda id = "26" Testo = "Who is actually Ice King?" Risposta = "Simon Petrikov" Errata1 = "Simon Petikow" Errata2 = "Simon Patrikov" Errata3 = "Simon Patikow" />
+     <Domanda id = "27" Testo = "What is the girlfriend of Simon?" Risposta = "Betty" Errata1 = "Benny" Errata2 = "Penny" Errata3 = "Clarissa" />
+     <Domanda id = "28" Testo = "Who is N.E.P.T.R.?" Risposta = "Neptr" Errata1 = "Banana Man" Errata2 = "A religious cult" Errata3 = "an experiment Bubblegum" />
+     <Domanda id = "29" Testo = "Ex-husbands of Tree Trunks are: Wyatt and Danny ..." Risposta = "Randy" Errata1 = "Tandy" Errata2 = "Phil" Errata3 = "Starchy" />
+     <Domanda id = "30" Testo = "What does Tree Trunks to attract the Monster Brain?" Risposta = "Dance" Errata1 = "Flip a cake" Errata2 = "The kisses" Errata3 = "The Shakes" />
+     <Domanda id = "31" Testo = "How Old Litch?" Risposta = "more 'than 1000 years" Errata1 = "less than 1000 years" Errata2 = "996 years" Errata3 = "999 years" />
+     <Domanda id = "32" Testo = "In Lessons of Heart who befriends the Snow Golem?" Risposta = "Wolf fiery" Errata1 = "Flambo" Errata2 = "LSB" Errata3 = "Ice King" />
+     <Domanda id = "33" Testo = "episode Secrets Christmas who invite Finn and Jake to the party?" Risposta = "Finn and Jake BMO" Errata1 = "All Candy People" Errata2 = "Ice King" Errata3 = "Marceline" />
+     <Domanda id = "34" Testo = "What shows Bubblegum Finn episode: Incendium?" Risposta = "Fireworks liquid" Errata1 = "A new sword" Errata2 = "Candy explosive" Errata3 = "A trick of Magic" />
+     <Domanda id = "35" Testo = "When Jake meets King Flame who claims to be?" Risposta = "Baron  Grass Lands" Errata1 = "Count of  Grass Lands" Errata2 = "Duke of  Grass Lands" Errata3 = "Butler Finn" />
+     <Domanda id = "36" Testo = "The gifts that leads Jake to King Flame are: a serenade for the princess and ..." Risposta = "water and panda" Errata1 = "a court jester" Errata2 = "jewelry " Errata3 =" gum and water "/>
+     <Domanda id = "37" Testo = "One of the following characters is not 'in the game of BMO" Risposta = "Swan Ciocco" Errata1 = "Hunny Bunny" Errata2 = "Bouncy Bee" Errata3 = "Sleepy Sam" />
+     <Domanda id = "38" Testo = "In which episode Finn celebrates 13 years?" Risposta = "The Mistery Train" Errata1 = "The Real You" Errata2 = "The Guardians of the Sun" Errata3 = "The Horse Sneak" />
+     <Domanda id = "39" Testo = "According to what Ice King and 'the secret to being happy?" Risposta = "Sleeping" Errata1 = "Married" Errata2 = "Eating lots of ice cream" Errata3 = "Singing" />
+     <Domanda id = "40" Testo = "What Jake sounds to attract the attention of the spy horse?" Risposta = "Beethoven" Errata1 = "Bach" Errata2 = "Chopin" Errata3 = "Strauss" />
+     <Domanda id = "41" Testo = "When Jake meets the parents of Lady Rainicorn who claims to be?" Risposta = "A Rainicorn" Errata1 = "A Dog" Errata2 = "The King of  Grass Lands" Errata3 = "A Martian" />
+     <Domanda id = "42" Testo = "Where does the tribe 'of uma-fish?" Risposta = "Underground" Errata1 = "Under the sea" Errata2 = "In a Cave" Errata3 = "Evil Forest" />
+     <Domanda id = "43" Testo = "How do you define the Princess Hot Dog his knights?" Risposta = "tontoloni" Errata1 = "Prodi Warriors" Errata2 = "playful" Errata3 = "Lazy and immature" />
+     <Domanda id = "44" Testo = "Who try to save in labyrint Finn and Jake in : The Limit?" Risposta = "Knights Hot Dog" Errata1 = "Bubblegum" Errata2 = "Shakerino" Errata3 = "Princess Raspberry" />
+     <Domanda id = "45" Testo = "Who is the archenemy Fionna?" Risposta = "Ice Queen" Errata1 = "Bubblegum" Errata2 = "Marshall" Errata3 = "Cake" />
+     <Domanda id = "46" Testo = "episode: The Creeps who was invited to the castle as well as Finn and Jake Bubblegum?" Risposta = "LSB BMO and Torch" Errata1 = "Ice King LSB and Torch" Errata2 = "Banana Man BMO and Brad" Errata3 = "LSB Brad and Shoko" />
+     <Domanda id = "47" Testo = "episode: The Monster tells what LSB to Finn and Jake?" Risposta = "The escape from home" Errata1 = "Horror Story" Errata2 = "The break with Brad" Errata3 = "A fanfiction" />
+     <Domanda id = "48" Testo = "LSB as trying to win Finn?" Risposta = "With its warts" Errata1 = "With an adventure" Errata2 = "With a Letter of Love" Errata3 = "With gifts" />
+     <Domanda id = "49" Testo = "What color is the hair of Finn?" Risposta = "Blond" Errata1 = "Mori" Errata2 = "Brown" Errata3 = "Smith" />
+     <Domanda id = "50" Testo = "What is the boyfriend of Cake?" Risposta = "Lord Monochrome" Errata1 = "Lord Iridello" Errata2 = "Lord Rigby" Errata3 = "Lord Monty" />
+    <Domanda id = "51" Testo = "What is' the prize in the tournament battle between wizards?" Risposta = "Kiss of Bubblegum" Errata1 = "A wand" Errata2 = "A feast" Errata3 = "A desire" />
+    <Domanda id = "52" Testo = "Who helps Tree Trunks regain its apples disappeared?" Risposta = "Mr. Pig" Errata1 = "BMO" Errata2 = "LSB" Errata3 = "Marceline" />
+    <Domanda id = "53" Testo = "What is' the first sword of Finn?" Risposta = "Golden Sword" Errata1 = "Shining Sword" Errata2 = "Sword Family" Errata3 = "Sword of Grass" />
+    <Domanda id = "54" Testo = "What color and 'the handle of the Golden Sword?" Risposta = "Black" Errata1 = "Brown" Errata2 = "Blue" Errata3 = "Purple" />
+    <Domanda id = "55" Testo = "In Farmworld the Finn's surname?" Risposta = "Mertens" Errata1 = "Martines" Errata2 = "Mendes" Errata3 = "Moventes" />
+    <Domanda id = "56" Testo = "episode: The Creeps his name BMO's character?" Risposta = "Professor Pants" Errata1 = "Guy Farting" Errata2 = "Duchess Gummybuns" Errata3 = "Lady Quietbottom" />
+    <Domanda id = "57" Testo = "Those who eat the flesh of the zombie zombie by returning Candy People?" Risposta = "Torch" Errata1 = "Starchy" Errata2 = "Banana Guard" Errata3 = "Mr. Cupcake" />
+    <Domanda id = "58" Testo = "What Finn tries to cure her broken foot?" Risposta = "Tears of Cyclops" Errata1 = "Tears of Fairy" Errata2 = "A Magic Gourd" Errata3 = "Dewdrops" />
+    <Domanda id = "59" Testo = "Ricardio and 'heart:" Risposta = "Ice King" Errata1 = "Magic Man" Errata2 = "King of Ooo" Errata3 = "Evergreen" />
+    <Domanda id = "60" Testo = "Who is' the King of Mars?" Risposta = "Abraham Lincoln" Errata1 = "Margles" Errata2 = "Grob Gob Glob Grod" Errata3 = "Orgalorg" />
+     <Domanda id = "61" Testo = "Who is the creator of Adventure Time?" Risposta = "Pendleton Ward" Errata1 = "Tim Kiefer" Errata2 = "Patrick McHale" Errata3 = "Steve Little" />
+     <Domanda id = "62" Testo = "How many episodes has made the season 6?" Risposta = "43 episodes" Errata1 = "26 episodes" Errata2 = "35 episodes" Errata3 = "52 episodes" />
+     <Domanda id = "63" Testo = "What color is the backpack of Finn?" Risposta = "Green" Errata1 = "Yellow" Errata2 = "Red" Errata3 = "Blue" />
+     <Domanda id = "64" Testo = "How many times was damaged backpack Finn?" Risposta = "3 times" Errata1 = "5 times" Errata2 = "2 times" Errata3 = "6 times" />
+     <Domanda id = "65" Testo = "Who is the person who appears on the cover cartoon Ble?" Risposta = "A Cheeseburger" Errata1 = "The Grinder" Errata2 = "A Bear" Errata3 = "LSB" />
+     <Domanda id = "66" Testo = "What's on the pommel of the sword of Jake?" Risposta = "A skull" Errata1 = "An apple" Errata2 = "A ruby" Errata3 = "A ball" />
+     <Domanda id = "67" Testo = "What is drawn on the shirt of Bubblegum rock?" Risposta = "2 marshmallow and a snake" Errata1 = "A skull in flames" Errata2 = "A Band of Skulls" Errata3 = "A bull drummer" />
+     <Domanda id = "68" Testo = "The Sword of Billy has three names:" Risposta = "Gramr Balmung and Nothung" Errata1 = "Gramr Excalibur and Nothung" Errata2 = "Gramr Familia and Noster" Errata3 = "Balmung Gramer and Freedo "/>
+     <Domanda id = "69" Testo = "Baby Eating Fox and the Babies is the favorite book?" Risposta = "Jake" Errata1 = "Finn" Errata2 = "Ice King" Errata3 = "BMO" />
+     <Domanda id = "70" Testo = "On the cover of the book and the Baby Whoozlefut Wuttlebugs, how many Wuttlebugs are there?" Risposta = "3 Wuttlebugs" Errata1 = "2 Wuttlebugs" Errata2 = "1 Wuttlebugs" Errata3 = "Nobodies" />
+     <Domanda id = "71" Testo = "Where was imprisoned Princess Flame?" Risposta = "In a Glass Bell" Errata1 = "In Dungeons" Errata2 = "In a Room of Ice" Errata3 = "On Castle Tower" />
+     <Domanda id = "72" Testo = "Back In the Nightosphere there is a picture of hunson playing golf with someone who is?" Risposta = "Peppermint Butler" Errata1 = "Marceline" Errata2 = "Death" Errata3 = "Gunther" />
+     <Domanda id = "73" Testo = "How Peppermint Butler called the Guardians of the Royal Promise?" Risposta = "Dark" Errata1 = "Angel of Death" Errata2 = "Danger" Errata3 = "Devil" />
+     <Domanda id = "74" Testo = "Peppermint Butler participates in a ritual where there are symbols: the man Winged Ox Eagle Lion do they represent?" Risposta = "The four Evangelists" Errata1 = "The four cardinal points" Errata2 = "4 Reiki symbols" Errata3 = "Food Chain" />
+     <Domanda id = "75" Testo = "What color it is the button that has the Princess Mercerina instead of the eye?" Risposta = "Green" Errata1 = "Red" Errata2 = "Blue" Errata3 = "Rose" />
+     <Domanda id = "76" Testo = "Who is ChooseGoose?" Risposta = "A merchant" Errata1 = "A peasant" Errata2 = "A Candy man" Errata3 = "A knight" />
+     <Domanda id = "77" Testo = "What was in the past life ChooseGoose?" Risposta = "Bruce" Errata1 = "Bard" Errata2 = "William" Errata3 = "Howard" />
+     <Domanda id = "78" Testo = "In one of the paintings that are home to Marceline what's depicted?" Risposta = "The Madonna and Child Jesus" Errata1 = "The Trinity" Errata2 = "The Horsemen" Errata3 = "RJDio" />
+     <Domanda id = "79" Testo = "What is drawn on the cell Finn?" Risposta = "2 cats" Errata1 = "A dog" Errata2 = "2 fish" Errata3 = "A rat" />
+     <Domanda id = "80" Testo = "Which of these is not a belligerent paper?" Risposta = "Bear Knight" Errata1 = "Pig" Errata2 = "Knight of Corn" Errata3 = "Great Dog" />
+</Quiz>

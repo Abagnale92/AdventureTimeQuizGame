@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id="1" source="/immagine/Finn.png" testo="You are Finn!You have a strong sense of duty and a strong will. Also you possess strength, stamina and superhuman 
+agility, but you have not yet learned how to win the heart of a princess!  " />
+  <Domanda id="2" source="/immagine/Jake.png" testo="You are Jake!You're the most loyal best friend anyone could have. When you're not saving your friends from evil 
+monsters, you're probably stuffing your face or taking serious power naps. You can barely count to 10, but 
+you're super strong and one hell-of-a mentor." />
+  <Domanda id="3" source="/immagine/Princess_Bubblegum.png" testo="You are Princess Bubblegum!You're the cute gum-haired Princess of the Candy Kingdom. You're super sweet, fierce, and you 
+love tea. You're incredibly loyal to your subjects and the smartest character on the show." />
+  <Domanda id="4" source="/immagine/Ice_King.png" testo="You are Ice King!You're short-tempered, and unscrewed sociopath, you're more annoying than a real threat! However 
+in difficult times you can be in good company for friends who need you. " />
+  <Domanda id="5" source="/immagine/Marceline.png" testo="You are Marceline!You're a bit neurotic and come across as intimidating to some. But you're blood-sucking awesome 
+and super talented. Just remember to keep your cool if someone eats your fries.
+" />
+  <Domanda id="6" source="/immagine/treetrunks.png" testo="You are Tree Trunks!You'are extremely inquisitive and tend to experience intense wanderlust, always feeling like
+you're missing out on some great adventure. Your friends find you to be a kind and bubbly addition to their
+lives and value you for your optimism. And yes you are the sexiest adventurer in the world! " />
+  <Domanda id="7" source="/immagine/Bmo.png" testo="You are Bmo!You're one independent little computer system. You love loud music and doing 'weird junk' when you're 
+alone. Your friends love it when you're around cause deep down under that metallic mint-colored exterior, 
+there's a strong gold little heart. " />
+</Quiz>

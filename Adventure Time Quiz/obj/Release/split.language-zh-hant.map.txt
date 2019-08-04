@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+
+[Files]
+"C:\Users\P£PP£\documents\visual studio 2013\Projects\Adventure Time Quiz\Adventure Time Quiz\obj\Release\split.language-zh-hant.pri"			"resources.pri"

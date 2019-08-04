@@ -1,0 +1,66 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    x:Class="Adventure_Time_Quiz.Duello"
+    mc:Ignorable="d" Loaded="Page_Loaded">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/middlepage.png"/>
+    </Page.Background>
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <Button x:Uid="Vero" x:Name="risp1" Content="" HorizontalAlignment="Center" Margin="0" Grid.Row="5" VerticalAlignment="Center" Tapped="risp1_Tapped" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="26"/>
+        <Button x:Uid="Falso" x:Name="risp2" Content="" HorizontalAlignment="Center" Margin="0" Grid.Row="6" VerticalAlignment="Center" Tapped="risp2_Tapped" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="26"/>
+        <Button x:Uid="Vero" x:Name="risp1_1" Content="" HorizontalAlignment="Center" Margin="0" Grid.Row="1" VerticalAlignment="Center" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="26" RenderTransformOrigin="0.5,0.5" Tapped="risp1_1_Tapped">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="179.562"/>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Uid="Falso" x:Name="risp2_1" Content="" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Tapped="risp2_1_Tapped" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="26" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="179.562"/>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="prova" Content="0" HorizontalAlignment="Center" Margin="0" Grid.Row="5" VerticalAlignment="Center" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Height="169" Grid.RowSpan="2" Width="244" Visibility="Collapsed"/>
+        <Button x:Name="prova2" Content="0" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Background="#FFD8D024" BorderBrush="#FFFF1717" Foreground="#FFCB0E0E" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Height="169" Grid.RowSpan="2" Width="244" RenderTransformOrigin="0.5,0.5" Visibility="Collapsed">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="180.252"/>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name="Player1" HorizontalAlignment="Right" Margin="0" Grid.Row="6" TextWrapping="Wrap" Text="Player1" VerticalAlignment="Bottom" Height="55" Width="105" Foreground="Red" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="22"/>
+        <TextBlock x:Name="Player2" HorizontalAlignment="Left" Margin="0" TextWrapping="Wrap" Text="Player2" VerticalAlignment="Top" Height="55" Width="105" Foreground="Red" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="22" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="179.55"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="20b705f4-c9e3-4e4a-854f-cc74300e1407" AdUnitId="221221" HorizontalAlignment="Center" Height="50" IsAutoRefreshEnabled="True" Margin="0" Grid.Row="3" VerticalAlignment="Center" Width="320"/>
+        <Image Margin="0" Grid.Row="6" Source="immagine/Finn.png" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Image Margin="0" Source="immagine/jake.png" HorizontalAlignment="Right" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="179.489"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image HorizontalAlignment="Center" Height="97" Margin="0" Grid.Row="4" VerticalAlignment="Center" Width="378" Source="immagine/sfondotextbloc.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Center" Height="96" Margin="0" Grid.Row="2" VerticalAlignment="Center" Width="374" Source="immagine/sfondotextbloc.png" Stretch="Fill"/>
+        <TextBlock x:Name="domanda1" HorizontalAlignment="Center" Margin="0" Grid.Row="4" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" Height="78" Width="355" FontWeight="Bold" FontFamily="PlainPrint.ttf#PlainPrint" FontSize="24" Foreground="Red"/>
+        <TextBlock x:Name="domanda2" HorizontalAlignment="Center" Margin="0" Grid.Row="2" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" Height="78" Width="355" FontWeight="Bold" FontFamily="PlainPrint.ttf#PlainPrint" FontSize="24" Foreground="Red" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="179.748"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+    </Grid>
+</Page>

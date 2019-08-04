@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Quiz>
+   <Domanda id="1" Testo="In Corto Animato come si chiama il nostro protagonista?" Risposta="Pen" Errata1="Den" Errata2="Mel" Errata3="Finn" />
+   <Domanda id="2" Testo="In Corto Animato quanti anni hanno i nostri eroi?" Risposta="12 e 28" Errata1="13 e 28" Errata2="13 e 25" Errata3="12 e 26" />
+   <Domanda id="3" Testo="Nell'episodio : La morte dei Morti Dolcetti dove si trovano Finn e Gommarosa?" Risposta="Cimitero" Errata1="Casa sull'albero" Errata2="Ice Kingdom" Errata3="Laboratorio" />
+   <Domanda id="4" Testo="Gommarosa su chi prova il siero Desalmatore?" Risposta="Mr. Bombardino" Errata1="Mr. Pasticiotto" Errata2="Starchy" Errata3="Maggiormenta" />
+   <Domanda id="5" Testo="Nell'episodio : Prigioniere d'amore sono rinchiuse 7 principesse chi non e' presente?" Risposta="Principessa Forzuta" Errata1="Principessa Fantasma" Errata2="PSB" Errata3="Principessa Smeraldo" />
+   <Domanda id="6" Testo="Nell'episodio : Prigioniere d'amore  Re Ghiaccio cosa obbliga a fare alle principesse?" Risposta="Suonare" Errata1="Cantare" Errata2="Cucinare" Errata3="Fare le pulizie" />
+   <Domanda id="7" Testo="Nell'episodio Shakerino come si chiama il cocomero salvato da Finn e Jake?" Risposta="Stanley" Errata1="Danny" Errata2="Stuart" Errata3="Ed" />
+   <Domanda id="8" Testo="Di cosa si nutre Shakerino?" Risposta="Disegni" Errata1="Frullati" Errata2="Bacon" Errata3="Fogli di Carta" />
+   <Domanda id="9" Testo="Nell'episodio : Tempo d'Affari gli uomini intrappolati nel ghiaccio di che epoca sono?" Risposta="XXI secolo" Errata1="XXII secolo" Errata2="XX secolo" Errata3="XXIII secolo" />
+   <Domanda id="10" Testo="Dove vive Shelby?" Risposta="Nel violino di Jake" Errata1="Nella casa sull'albero" Errata2="Dolcelandia" Errata3="Nella foresta malvagia" />
+   <Domanda id="11" Testo="Di che colore e' la maglia di Tiffany?" Risposta="Rosa" Errata1="Gialla" Errata2="Blu" Errata3="Rossa" />
+   <Domanda id="12" Testo="Chi sono le 2 persone preferite da Jake?" Risposta="Finn e Iridella" Errata1="Iridella e Gommarosa" Errata2="Finn e Fiamma" Errata3="Gunter e Re Ghiaccio" />
+   <Domanda id="13" Testo="Dove si trova il traduttore universale utilizzato per comprendere le parole di Iridella?" Risposta="Foresta Malvagia" Errata1="Lago Celeson" Errata2="Ice Kingdom" Errata3="Nottesfera" />
+   <Domanda id="14" Testo="Che lingua parla Lady Iridella?" Risposta="Coreano" Errata1="Cinese Mandarino" Errata2="Indiano" Errata3="Arabo" />
+   <Domanda id="15" Testo="Cosa intende Finn quando dice : Boom Boom?" Risposta="Defecare" Errata1="Lottare" Errata2="Mangiare" Errata3="Sparare" />
+   <Domanda id="16" Testo="Chi offre dei poteri magici gratis a Finn e a Jake?" Risposta="La Morte" Errata1="Bufo lo Stregone" Errata2="Abracadaniel" Errata3="L'Omino Magico" />
+   <Domanda id="17" Testo="Bufo lo Stregone e' :" Risposta="Un Rospo" Errata1="Un Topo" Errata2="Un Gatto" Errata3="Un Uccello" />
+   <Domanda id="18" Testo="Cosa c'e' inciso sulla corteccia della casa sull'albero?" Risposta="La M di Marceline" Errata1="Un cuore con le iniziali F. J." Errata2="BMO" Errata3="Un cuore con le iniziali J. I." />
+   <Domanda id="19" Testo="Nella citta' dei ladri chi cerca di aiutare Finn?" Risposta="Penny" Errata1="Betty" Errata2="Danny" Errata3="Phil" />
+   <Domanda id="20" Testo="In quale episodio della prima stagione non compare la lumaca?" Risposta="Compare in tutti gli episodi" Errata1="Bitorzolo Mannaro" Errata2="Melaverde" Errata3="Donny" />
+   <Domanda id="21" Testo="Nell'episodio : l'Omino Magico cosa da Finn al mendicante?" Risposta="zolletta di zucchero" Errata1="caramella" Errata2="sandwich" Errata3="fetta di torta" />
+   <Domanda id="22" Testo="Chi e' Lisby?" Risposta="Maggiordomo di Duca Noce" Errata1="Dolcibotto" Errata2="Guardiano della Nottesfera" Errata3="Ex-marito di Melaverde" />
+   <Domanda id="23" Testo="Marceline suona :" Risposta="Il Basso" Errata1="Il Violino" Errata2="La Chitarra" Errata3="La Batteria" />
+   <Domanda id="24" Testo="Nell'episodio : Avventure Immaginarie cosa piove dal cielo?" Risposta="Pugnali" Errata1="Forchette" Errata2="Cucchiai" Errata3="Caramelle" />
+   <Domanda id="25" Testo="Chi fa ammalare Re Ghiaccio con la neve provocata dalla sua barba?" Risposta="Dolcibotti" Errata1="Finn e Jake" Errata2="Principessa Gommarosa" Errata3="Lady Iridella" />
+   <Domanda id="26" Testo="Chi e' in realta' Re Ghiaccio?" Risposta="Simon Petrikov" Errata1="Simon Petikow" Errata2="Simon Patrikov" Errata3="Simon Patikow" />
+   <Domanda id="27" Testo="Come si chiama la fidanzata di Simon?" Risposta="Betty" Errata1="Benny" Errata2="Penny" Errata3="Clarissa" />
+   <Domanda id="28" Testo="Chi e' C.L.A.I.T.?" Risposta="Cingolino" Errata1="Banana Man" Errata2="Un culto religioso" Errata3="un esperimento di Gommarosa" />
+   <Domanda id="29" Testo="Gli ex mariti di Melaverde sono : Wyatt Danny e..." Risposta="Randy" Errata1="Tandy" Errata2="Phil" Errata3="Starchy" />
+   <Domanda id="30" Testo="Cosa fa Melaverde per attirare il Mostro Cervello?" Risposta="Danza" Errata1="Lancia una torta" Errata2="Gli da un bacio" Errata3="Lo accarezza" />
+   <Domanda id="31" Testo="Quanti anni ha il Litch?" Risposta="piu' di 1000 anni" Errata1="meno di 1000 anni" Errata2="996 anni" Errata3="999 anni" />
+   <Domanda id="32" Testo="In Lezioni di Cuore con chi fa amicizia il Golem di Neve?" Risposta="Lupo infuocato" Errata1="Flambo" Errata2="PSB" Errata3="Re Ghiaccio" />
+   <Domanda id="33" Testo="Nell'episodio Segreti Natalizi chi invitano Finn e Jake al party?" Risposta="Finn Jake e BMO" Errata1="Tutti i Dolcibotti" Errata2="Re Ghiaccio" Errata3="Marceline" />
+   <Domanda id="34" Testo="Cosa mostra Gommarosa a Finn nell'episodio : Il Regno di Fuoco?" Risposta="Fuochi artificiali liquidi" Errata1="Una nuova spada" Errata2="Caramelle esplosive" Errata3="Un trucco di Magia" />
+   <Domanda id="35" Testo="Quando Jake incontra Re Fiamma chi dice di essere?" Risposta="Barone di Pratilandia" Errata1="Conte di Pratilandia" Errata2="Duca di Pratilandia" Errata3="Maggiordomo di Finn" />
+   <Domanda id="36" Testo="I doni che porta Jake a Re Fiamma sono : una serenata per la principessa e ..." Risposta="aqua e un panda" Errata1="un buffone di corte" Errata2="gioielli" Errata3="una gomma e l'acqua" />
+   <Domanda id="37" Testo="Uno dei seguenti personaggi non e' presente nel gioco di BMO" Risposta="Cigno Ciocco" Errata1="Ape Rimbalzella" Errata2="Melma Coniglio" Errata3="Sam Pennica" />
+   <Domanda id="38" Testo="In quale episodio Finn compie 13 anni?" Risposta="Il Treno del Mistero" Errata1="Il Vero Te" Errata2="I Guardiani del Sole" Errata3="Il Cavallo Spione" />
+   <Domanda id="39" Testo="Secondo Re Ghiaccio qual e' il segreto per essere felici?" Risposta="Dormire" Errata1="Sposarsi" Errata2="Mangiare tanti gelati" Errata3="Cantare" />
+   <Domanda id="40" Testo="Cosa suona Jake per attirare l'attenzione del cavallo spione?" Risposta="Beethoven" Errata1="Bach" Errata2="Chopin" Errata3="Strauss" />
+   <Domanda id="41" Testo="Quando Jake incontra i genitori di Lady Iridella chi dice di essere?" Risposta="Un Iridello" Errata1="Un Cane" Errata2="Il Re di Pratilandia" Errata3="Un marziano" />
+   <Domanda id="42" Testo="Dove vive la tribu' degli uma-pesci?" Risposta="Sottoterra" Errata1="In fondo al mare" Errata2="In una Caverna" Errata3="Foresta Malvagia" />
+   <Domanda id="43" Testo="Come definisce la Principessa Hot Dog i suoi cavalieri?" Risposta="Tontoloni" Errata1="Prodi Guerrieri" Errata2="Giocherelloni" Errata3="Pigri e immaturi" />
+   <Domanda id="44" Testo="Chi tentano di salvare nel labirinto Finn e Jake nell'epiosodio : Il Limite?" Risposta="Cavalieri Hot Dog" Errata1="Gommarosa" Errata2="Shakerino" Errata3="Principessa Lampone" />
+   <Domanda id="45" Testo="Chi e' l'acerrimo nemico di Fionna?" Risposta="Regina Ghiaccio" Errata1="Gommorosa" Errata2="Marshall" Errata3="Cake" />
+   <Domanda id="46" Testo="Nell'episodio : Controscherzetto chi viene invitato al castello oltre a Finn Jake e Gommarosa?" Risposta="PSB BMO e Cannello" Errata1="Re Ghiaccio PSB e Cannello" Errata2="Banana Man BMO e Brad" Errata3="PSB Brad e Shoko" />
+   <Domanda id="47" Testo="Nell'episodio : Il Mostro cosa racconta PSB a Finn e Jake?" Risposta="La fuga da casa" Errata1="Una storia Horror" Errata2="La rottura con Brad" Errata3="Una Fanfiction" />
+   <Domanda id="48" Testo="PSB come cerca di conquistare Finn?" Risposta="Con i suoi Bitorzoli" Errata1="Con un avventura" Errata2="Con una Lettera d'Amore" Errata3="Con dei regali" />
+   <Domanda id="49" Testo="Di che colori sono i capelli di Finn?" Risposta="Biondi" Errata1="Mori" Errata2="Castani" Errata3="Rossi" />
+   <Domanda id="50" Testo="Come si chiama il fidanzato di Cake?" Risposta="Lord Monocromo" Errata1="Lord Iridello" Errata2="Lord Rigby" Errata3="Lord Monty" />
+  <Domanda id="51" Testo="Qual e' il premio nel torneo battaglia tra maghi?" Risposta="Un bacio di Gommarosa" Errata1="Una bacchetta" Errata2="Un banchetto" Errata3="Un desiderio" />
+  <Domanda id="52" Testo="Chi aiuta Melaverde a ritrovare le sue mele scomparse?" Risposta="Mr. Maiale" Errata1="BMO" Errata2="PSB" Errata3="Marceline" />
+  <Domanda id="53" Testo="Qual e' la prima spada di Finn?" Risposta="Spada Dorata" Errata1="Spada Lucente" Errata2="Spada di Famiglia" Errata3="Spada d'Erba" />
+  <Domanda id="54" Testo="Di che colore e' il manico della Spada Dorata?" Risposta="Nero" Errata1="Marrone" Errata2="Blu" Errata3="Viola" />
+  <Domanda id="55" Testo="Nel Farmworld qual e' il cognome di Finn?" Risposta="Mertens" Errata1="Martines" Errata2="Mendes" Errata3="Moventes" />
+  <Domanda id="56" Testo="Nell'episodio : Controscherzetto come si chiama il personaggio di BMO?" Risposta="Mr. Pantalone" Errata1="Mr. Puzzettone" Errata2="Lady Chioma Placida" Errata3="Mr. Sopracciglio" />
+  <Domanda id="57" Testo="Chi mangia la carne di zombie facendo ritornare i zombie dolcibotti?" Risposta="Cannello" Errata1="Starchy" Errata2="Guardia Banana" Errata3="Mr. Pasticciotto" />
+  <Domanda id="58" Testo="Cosa cerca Finn per curare il suo piede rotto?" Risposta="Lacrime di Ciclope" Errata1="Lacrime di Fata" Errata2="Una Zucca Magica" Errata3="Gocce di rugiada" />
+  <Domanda id="59" Testo="Ricardio e' il cuore di :" Risposta="Re Ghiaccio" Errata1="Omino Magico" Errata2="King of Ooo" Errata3="Evergreen" />
+  <Domanda id="60" Testo="Chi e' il Re di Marte?" Risposta="Abraham Lincoln" Errata1="Margles" Errata2="Grob Gob Glob Grod" Errata3="Orgalorg" />
+   <Domanda id="61" Testo="Chi e' il creatore di Adventure Time?" Risposta="Pendleton Ward" Errata1="Tim Kiefer" Errata2="Patrick McHale" Errata3="Steve Little" />
+   <Domanda id="62" Testo="Da quanti episodi e' composta la 6 stagione?" Risposta="43 episodi" Errata1="26 episodi" Errata2="35 episodi" Errata3="52 episodi" />
+   <Domanda id="63" Testo="Di che colore e' lo zaino di Finn?" Risposta="Verde" Errata1="Giallo" Errata2="Rosso" Errata3="Blu" />
+   <Domanda id="64" Testo="Quante volte e' stato danneggiato lo zaino di Finn?" Risposta="3 volte" Errata1="5 volte" Errata2="2 volte" Errata3="6 volte" />
+   <Domanda id="65" Testo="Chi e' il soggetto che compare sulla copertina del fumetto Ble?" Risposta="Un Cheeseburger" Errata1="Il Grattoro" Errata2="Un Orso" Errata3="PSB" />
+   <Domanda id="66" Testo="Cosa c'e' sul pomo della spada di Jake?" Risposta="Un cranio" Errata1="Una mela" Errata2="Un rubino" Errata3="Una sfera" />
+   <Domanda id="67" Testo="Cosa c'e' disegnato sulla maglietta rock di Gommarosa?" Risposta="2 marshmallow e un serpente" Errata1="Un teschio in fiamme" Errata2="Una Band di teschi" Errata3="Un toro batterista" />
+   <Domanda id="68" Testo="La Spada di Billy ha 3 nomi :" Risposta="Gramr Balmung e Nothung" Errata1="Gramr Excalibur e Nothung" Errata2="Gramr Familia e Noster" Errata3="Balmung Gramer e Freedo" />
+   <Domanda id="69" Testo="Baby Eating Fox and the Babies e' il libro preferito di ?" Risposta="Jake" Errata1="Finn" Errata2="Re Ghiaccio" Errata3="BMO" />
+   <Domanda id="70" Testo="Sulla copertina del libro Baby Whoozlefut and the Wuttlebugs quanti coccicorni ci sono?" Risposta="3 coccicorni" Errata1="2 coccicorni" Errata2="1 coccicorno" Errata3="4 coccicorni" />
+   <Domanda id="71" Testo="Dove era rinchiusa la Principessa Fiamma?" Risposta="In una Campana di Vetro" Errata1="Nelle Segrete" Errata2="In una Stanza di Ghiaccio" Errata3="Sulla Torre del Castello" />
+   <Domanda id="72" Testo="In Ritorno dalla Nottesfera c'e' una foto di Hunson che gioca a golf con qualcuno chi e'?" Risposta="Maggiormenta" Errata1="Marceline" Errata2="La Morte" Errata3="Gunther" />
+   <Domanda id="73" Testo="Come chiamano Maggiormenta i Guardiani delle Promesse Reali?" Risposta="Tenebroso" Errata1="Oscuro" Errata2="Bricconcello" Errata3="Demonio" />
+   <Domanda id="74" Testo="Maggiormenta partecipa a un rito dove sono presenti dei simboli : l'Uomo alato il Bue  il Leone l'Aquila cosa rappresentano?" Risposta="I 4 Evangelisti" Errata1="I 4 punti cardinali" Errata2="4 simboli del Reiki" Errata3="Catena Alimentare" />
+   <Domanda id="75" Testo="Di che colore e' il bottone che ha la Principessa Mercerina al posto dell'occhio?" Risposta="Verde" Errata1="Rosso" Errata2="Blu" Errata3="Rosa" />
+   <Domanda id="76" Testo="Chi e' ChooseGoose?" Risposta="Un mercante" Errata1="Un contadino" Errata2="Un dolcibotto" Errata3="Un cavaliere" />
+   <Domanda id="77" Testo="Come si chiamava nella vita passata ChooseGoose?" Risposta="Bruce" Errata1="Bard" Errata2="William" Errata3="Howard" />
+   <Domanda id="78" Testo="In uno dei quadri che si trovano a casa di Marceline cosa c'e' raffigurato?" Risposta="La Madonna e Gesu' Bambino" Errata1="La Trinita'" Errata2="I Cavalieri dell'Apocalisse" Errata3="R.J.Dio" />
+   <Domanda id="79" Testo="Cosa c'e' disegnato sul cellulare di Finn?" Risposta="2 gatti" Errata1="Un cane" Errata2="2 pesci" Errata3="Un topo" />
+   <Domanda id="80" Testo="Quale di queste non e' una carta bellicosa?" Risposta="Orso Cavaliere" Errata1="Maiale" Errata2="Cavaliere di Mais" Errata3="Gran Cane" />
+</Quiz>

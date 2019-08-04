@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Quiz>
+  <Domanda id="1" 
+           Testo="Dove ti piacerebbe vivere? "
+           a="Casa sull'albero " b="Candy Kingdom "
+           c="Ice Kingdom "
+           d="Fire Kingdom " 
+           e="Marte " />
+  
+  <Domanda id="2" 
+           Testo="come ti difenderesti da un mostro? "
+           a="Con un Pugno in Faccia "
+           b="Sparando con una Pistola "
+           c="Con i Super Poteri " 
+           d="Urla e lo Spaventi 
+           " e="Con l'Astuzia " />
+  <Domanda id="3"
+           Testo="prendi uno snack "
+           a="Panino con Gelato " b="Bacon "
+           c="Caramelle " d="Pizza "
+           e="Torta di Mele " />
+  <Domanda id="4"
+           Testo="Quale genere musicale preferisci? "
+           a="Rock "
+           b="Metal "
+           c="Classica " 
+           d="Raggae "
+           e="Rap " />
+  <Domanda id="5" 
+           Testo="Scegli un gioco "
+           a="Super Mario" 
+           b="Pokemon "
+           c="Kirby "
+           d="Metal Slug "
+           e="Sonic " />
+  <Domanda id="6" 
+           Testo="Cosa fai nel weekend? "
+           a="Dormire "
+           b="Uscire con gli Amici "
+           c="Vai a un Party "
+           d="Cinema "
+           e="Stai a Casa " />
+  <Domanda id="7"
+           Testo="Come ti descrivono i tuoi amici? "
+           a="Jakecosmico "
+           b="Finntastico "
+           c="Favoloso "
+           d="Sociopatico "
+           e="Gentile " />
+  <Domanda id="8" 
+           Testo="Cosa ti piace leggere? "
+           a="Fumetto "
+           b="Manga "
+           c="Rivista "
+           d="Libro "
+           e="Giornale " />
+  <Domanda id="9"
+           Testo="Quale materia ti piace? "
+           a="Matematica "
+           b="Scienze "
+           c="Storia "
+           d="Letteratura "
+           e="Ginnastica " />
+  <Domanda id="10"
+           Testo="Cosa vorresti essere in futuro? "
+           a="Avventuriero "
+           b="Cantante "
+           c="Scienziato "
+           d="Attore " 
+           e="Dottore " />
+<Domanda id="11"
+           Testo=" "
+           a=" "
+           b=" "
+           c=" "
+           d=" " 
+           e=" " />
+</Quiz>

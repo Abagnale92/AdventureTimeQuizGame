@@ -1,0 +1,56 @@
+﻿<Page x:ConnectionId='1'
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    x:Class="Adventure_Time_Quiz.Punteggio"
+    mc:Ignorable="d"                     >
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/record2.png"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <TextBlock x:Uid="domande" x:Name="domande" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="60" Width="310" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" SelectionHighlightColor="#FF4617B4" Foreground="Red" TextAlignment="Center"/>
+        <TextBlock x:Name="totdomande" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="60" Width="85" Grid.Row="1" FontWeight="Bold" FontFamily="PlainPrint.ttf#PlainPrint" FontSize="36" Foreground="Red" TextAlignment="Center"/>
+        <TextBlock x:Uid="punteggio" x:Name="punteggio" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="60" Width="325" Grid.Row="2" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Foreground="Red" TextAlignment="Center">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="-0.704" TranslateY="-1.382" Rotation="0.58"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Name="totpunteggio" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="60" Width="80.262" Grid.Row="3" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" FontWeight="Bold" FontFamily="PlainPrint.ttf#PlainPrint" FontSize="36" Foreground="Red" TextAlignment="Center">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="-0.704" TranslateY="-1.382" Rotation="0.58"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock  x:Name="player1" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" SelectionHighlightColor="#FF4617B4" Foreground="Red" Text="Player 1" Visibility="Collapsed" TextAlignment="Center"/>
+        <TextBlock  x:Name="player2" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Grid.Row="2" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Foreground="Red" Text="Player 2" Visibility="Collapsed" TextAlignment="Center">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="-0.704" TranslateY="-1.382" Rotation="0.58"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock x:Uid="Victory" x:Name="PlayerVictory" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Height="119.021" Width="325" Grid.Row="4" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" FontFamily="Arial Black" FontWeight="Bold" FontSize="36" VerticalAlignment="Center" TextAlignment="Center" Foreground="#FF00FF17" Visibility="Collapsed">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="-0.704" TranslateY="-1.382" Rotation="0.58"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Button x:ConnectionId='2' Content="Home" HorizontalAlignment="Center" Margin="0" Grid.Row="4" VerticalAlignment="Bottom" Foreground="Red" BorderBrush="{x:Null}" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24"                       >
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="immagine/orangebutton.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Uid="images" x:Name="immagini" HorizontalAlignment="Center" Margin="37,12.5" TextWrapping="Wrap" VerticalAlignment="Center" Height="60" Width="310" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" SelectionHighlightColor="#FF4617B4" Foreground="Red" TextAlignment="Center" Visibility="Collapsed"/>
+        <TextBlock x:Name="corrette" HorizontalAlignment="Left" Margin="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="139" Width="195" Grid.Row="4" FontWeight="Bold" FontFamily="PlainPrint.ttf#PlainPrint" FontSize="36" Foreground="#FF00FF23" TextAlignment="Center" Visibility="Collapsed"/>
+
+    </Grid>
+</Page>
+

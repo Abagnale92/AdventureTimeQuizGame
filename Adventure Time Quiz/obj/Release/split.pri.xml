@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="33107DreamSoftware.AdventureTimeQuiz" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-GB, EN-US, EN</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="Adventure Time Quiz.xr.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Adventure%20Time%20Quiz.xr.xml">
+				<Candidate type="Path">
+					<Value>Adventure Time Quiz.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Chisei.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Chisei.xbf">
+				<Candidate type="Path">
+					<Value>Chisei.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="chisei.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/chisei.xml">
+				<Candidate type="Path">
+					<Value>chisei.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="chiseieng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/chiseieng.xml">
+				<Candidate type="Path">
+					<Value>chiseieng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Congratulation.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Congratulation.xbf">
+				<Candidate type="Path">
+					<Value>Congratulation.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Credit.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Credit.xbf">
+				<Candidate type="Path">
+					<Value>Credit.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Duello.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Duello.xbf">
+				<Candidate type="Path">
+					<Value>Duello.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="duello.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/duello.xml">
+				<Candidate type="Path">
+					<Value>duello.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="duelloeng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/duelloeng.xml">
+				<Candidate type="Path">
+					<Value>duelloeng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="immaginichisei.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immaginichisei.xml">
+				<Candidate type="Path">
+					<Value>immaginichisei.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="immaginichiseieng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immaginichiseieng.xml">
+				<Candidate type="Path">
+					<Value>immaginichiseieng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Indovina.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Indovina.xbf">
+				<Candidate type="Path">
+					<Value>Indovina.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="indovina.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/indovina.xml">
+				<Candidate type="Path">
+					<Value>indovina.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="indovinaeng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/indovinaeng.xml">
+				<Candidate type="Path">
+					<Value>indovinaeng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Istruction.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Istruction.xbf">
+				<Candidate type="Path">
+					<Value>Istruction.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="level.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/level.xbf">
+				<Candidate type="Path">
+					<Value>level.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="livello1.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/livello1.xml">
+				<Candidate type="Path">
+					<Value>livello1.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="livello1eng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/livello1eng.xml">
+				<Candidate type="Path">
+					<Value>livello1eng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Middlepage.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Middlepage.xbf">
+				<Candidate type="Path">
+					<Value>Middlepage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Personaggio.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Personaggio.xbf">
+				<Candidate type="Path">
+					<Value>Personaggio.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PlainPrint.ttf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/PlainPrint.ttf">
+				<Candidate type="Path">
+					<Value>PlainPrint.ttf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Punteggio.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Punteggio.xbf">
+				<Candidate type="Path">
+					<Value>Punteggio.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QuizPage.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/QuizPage.xbf">
+				<Candidate type="Path">
+					<Value>QuizPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Quiztime.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Quiztime.xbf">
+				<Candidate type="Path">
+					<Value>Quiztime.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Record.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Record.xbf">
+				<Candidate type="Path">
+					<Value>Record.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="VeroFalso.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/VeroFalso.xml">
+				<Candidate type="Path">
+					<Value>VeroFalso.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="VeroFalsoeng.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/VeroFalsoeng.xml">
+				<Candidate type="Path">
+					<Value>VeroFalsoeng.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="immagine">
+				<NamedResource name="abracadabra.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/abracadabra.png">
+					<Candidate type="Path">
+						<Value>immagine\abracadabra.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AbramoLincoln.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/AbramoLincoln.png">
+					<Candidate type="Path">
+						<Value>immagine\AbramoLincoln.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="altro.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/altro.png">
+					<Candidate type="Path">
+						<Value>immagine\altro.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="altro2.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/altro2.png">
+					<Candidate type="Path">
+						<Value>immagine\altro2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ash.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/ash.png">
+					<Candidate type="Path">
+						<Value>immagine\ash.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bananaguardia.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/bananaguardia.png">
+					<Candidate type="Path">
+						<Value>immagine\bananaguardia.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BananaMan.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/BananaMan.png">
+					<Candidate type="Path">
+						<Value>immagine\BananaMan.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bellanoche.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/bellanoche.png">
+					<Candidate type="Path">
+						<Value>immagine\bellanoche.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Betty.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Betty.png">
+					<Candidate type="Path">
+						<Value>immagine\Betty.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Biblo.PNG" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Biblo.PNG">
+					<Candidate type="Path">
+						<Value>immagine\Biblo.PNG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Billy.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Billy.png">
+					<Candidate type="Path">
+						<Value>immagine\Billy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Bmo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Bmo.png">
+					<Candidate type="Path">
+						<Value>immagine\Bmo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Bob.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Bob.png">
+					<Candidate type="Path">
+						<Value>immagine\Bob.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Boilbee.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Boilbee.png">
+					<Candidate type="Path">
+						<Value>immagine\Boilbee.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="breakfastprincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/breakfastprincess.png">
+					<Candidate type="Path">
+						<Value>immagine\breakfastprincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cannello.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Cannello.png">
+					<Candidate type="Path">
+						<Value>immagine\Cannello.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cavallo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Cavallo.png">
+					<Candidate type="Path">
+						<Value>immagine\Cavallo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Charlie.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Charlie.png">
+					<Candidate type="Path">
+						<Value>immagine\Charlie.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="chisei.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/chisei.png">
+					<Candidate type="Path">
+						<Value>immagine\chisei.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChooseGoose.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/ChooseGoose.png">
+					<Candidate type="Path">
+						<Value>immagine\ChooseGoose.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cingolino.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Cingolino.png">
+					<Candidate type="Path">
+						<Value>immagine\Cingolino.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cobbler.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Cobbler.png">
+					<Candidate type="Path">
+						<Value>immagine\Cobbler.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ConteLimoncello.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/ConteLimoncello.png">
+					<Candidate type="Path">
+						<Value>immagine\ConteLimoncello.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Cuber.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Cuber.png">
+					<Candidate type="Path">
+						<Value>immagine\Cuber.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Danny.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Danny.png">
+					<Candidate type="Path">
+						<Value>immagine\Danny.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Darren.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Darren.png">
+					<Candidate type="Path">
+						<Value>immagine\Darren.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Donny.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Donny.png">
+					<Candidate type="Path">
+						<Value>immagine\Donny.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ed.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Ed.png">
+					<Candidate type="Path">
+						<Value>immagine\Ed.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Elephant.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Elephant.png">
+					<Candidate type="Path">
+						<Value>immagine\Elephant.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EmeraldPrincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/EmeraldPrincess.png">
+					<Candidate type="Path">
+						<Value>immagine\EmeraldPrincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Evergreen.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Evergreen.png">
+					<Candidate type="Path">
+						<Value>immagine\Evergreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="facebook.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/facebook.png">
+					<Candidate type="Path">
+						<Value>immagine\facebook.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Finn.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Finn.png">
+					<Candidate type="Path">
+						<Value>immagine\Finn.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Fionna.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Fionna.png">
+					<Candidate type="Path">
+						<Value>immagine\Fionna.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Flambo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Flambo.png">
+					<Candidate type="Path">
+						<Value>immagine\Flambo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="flameking.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/flameking.png">
+					<Candidate type="Path">
+						<Value>immagine\flameking.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FlamePrincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/FlamePrincess.png">
+					<Candidate type="Path">
+						<Value>immagine\FlamePrincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ghostprincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/ghostprincess.png">
+					<Candidate type="Path">
+						<Value>immagine\ghostprincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Giuseppe.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Giuseppe.png">
+					<Candidate type="Path">
+						<Value>immagine\Giuseppe.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GnomeKnight.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/GnomeKnight.png">
+					<Candidate type="Path">
+						<Value>immagine\GnomeKnight.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Grob.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Grob.png">
+					<Candidate type="Path">
+						<Value>immagine\Grob.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gufo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/gufo.png">
+					<Candidate type="Path">
+						<Value>immagine\gufo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Gunter.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Gunter.png">
+					<Candidate type="Path">
+						<Value>immagine\Gunter.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Gunther.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Gunther.png">
+					<Candidate type="Path">
+						<Value>immagine\Gunther.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Hambo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Hambo.png">
+					<Candidate type="Path">
+						<Value>immagine\Hambo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Howard.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Howard.png">
+					<Candidate type="Path">
+						<Value>immagine\Howard.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Hunson.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Hunson.png">
+					<Candidate type="Path">
+						<Value>immagine\Hunson.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Huntress.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Huntress.png">
+					<Candidate type="Path">
+						<Value>immagine\Huntress.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Icequeen.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Icequeen.png">
+					<Candidate type="Path">
+						<Value>immagine\Icequeen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ice_King.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Ice_King.png">
+					<Candidate type="Path">
+						<Value>immagine\Ice_King.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="indovina.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/indovina.png">
+					<Candidate type="Path">
+						<Value>immagine\indovina.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jake.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/jake.png">
+					<Candidate type="Path">
+						<Value>immagine\jake.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jamesbaxter.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/jamesbaxter.png">
+					<Candidate type="Path">
+						<Value>immagine\jamesbaxter.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jamjam.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/jamjam.png">
+					<Candidate type="Path">
+						<Value>immagine\jamjam.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Joshua.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Joshua.png">
+					<Candidate type="Path">
+						<Value>immagine\Joshua.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KeyPer.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/KeyPer.png">
+					<Candidate type="Path">
+						<Value>immagine\KeyPer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KimKilWhan.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/KimKilWhan.png">
+					<Candidate type="Path">
+						<Value>immagine\KimKilWhan.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kingofOoo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/kingofOoo.png">
+					<Candidate type="Path">
+						<Value>immagine\kingofOoo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kingworm.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/kingworm.png">
+					<Candidate type="Path">
+						<Value>immagine\kingworm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lady-rainicorn-4.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/lady-rainicorn-4.png">
+					<Candidate type="Path">
+						<Value>immagine\lady-rainicorn-4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ladyiridella.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/ladyiridella.png">
+					<Candidate type="Path">
+						<Value>immagine\ladyiridella.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Lauren.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Lauren.png">
+					<Candidate type="Path">
+						<Value>immagine\Lauren.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Lester.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Lester.png">
+					<Candidate type="Path">
+						<Value>immagine\Lester.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Lich.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Lich.png">
+					<Candidate type="Path">
+						<Value>immagine\Lich.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lumaca.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/lumaca.png">
+					<Candidate type="Path">
+						<Value>immagine\lumaca.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Maggiormenta.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Maggiormenta.png">
+					<Candidate type="Path">
+						<Value>immagine\Maggiormenta.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Maja.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Maja.png">
+					<Candidate type="Path">
+						<Value>immagine\Maja.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Marauder.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Marauder.png">
+					<Candidate type="Path">
+						<Value>immagine\Marauder.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Marceline.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Marceline.png">
+					<Candidate type="Path">
+						<Value>immagine\Marceline.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="marshall.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/marshall.png">
+					<Candidate type="Path">
+						<Value>immagine\marshall.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Martin.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Martin.png">
+					<Candidate type="Path">
+						<Value>immagine\Martin.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Melissa.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Melissa.png">
+					<Candidate type="Path">
+						<Value>immagine\Melissa.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="memow.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/memow.png">
+					<Candidate type="Path">
+						<Value>immagine\memow.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="middlepage.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/middlepage.png">
+					<Candidate type="Path">
+						<Value>immagine\middlepage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Monty.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Monty.png">
+					<Candidate type="Path">
+						<Value>immagine\Monty.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MrPasticciotto.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/MrPasticciotto.png">
+					<Candidate type="Path">
+						<Value>immagine\MrPasticciotto.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mrpig.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/mrpig.png">
+					<Candidate type="Path">
+						<Value>immagine\mrpig.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MusclePrincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/MusclePrincess.png">
+					<Candidate type="Path">
+						<Value>immagine\MusclePrincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Nina.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Nina.png">
+					<Candidate type="Path">
+						<Value>immagine\Nina.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="orangebutton.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/orangebutton.png">
+					<Candidate type="Path">
+						<Value>immagine\orangebutton.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Orso.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Orso.png">
+					<Candidate type="Path">
+						<Value>immagine\Orso.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PartyPat.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/PartyPat.png">
+					<Candidate type="Path">
+						<Value>immagine\PartyPat.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="peacemaster.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/peacemaster.png">
+					<Candidate type="Path">
+						<Value>immagine\peacemaster.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Penny.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Penny.png">
+					<Candidate type="Path">
+						<Value>immagine\Penny.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Phil.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Phil.png">
+					<Candidate type="Path">
+						<Value>immagine\Phil.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Pinapina.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Pinapina.png">
+					<Candidate type="Path">
+						<Value>immagine\Pinapina.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Princeofnuts.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Princeofnuts.png">
+					<Candidate type="Path">
+						<Value>immagine\Princeofnuts.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Princess_Bubblegum.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Princess_Bubblegum.png">
+					<Candidate type="Path">
+						<Value>immagine\Princess_Bubblegum.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="prismo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/prismo.png">
+					<Candidate type="Path">
+						<Value>immagine\prismo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="provadt.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/provadt.png">
+					<Candidate type="Path">
+						<Value>immagine\provadt.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Provalogo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Provalogo.png">
+					<Candidate type="Path">
+						<Value>immagine\Provalogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PSB.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/PSB.png">
+					<Candidate type="Path">
+						<Value>immagine\PSB.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="record.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/record.png">
+					<Candidate type="Path">
+						<Value>immagine\record.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="record2.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/record2.png">
+					<Candidate type="Path">
+						<Value>immagine\record2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ricardio.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Ricardio.png">
+					<Candidate type="Path">
+						<Value>immagine\Ricardio.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="scorcher.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/scorcher.png">
+					<Candidate type="Path">
+						<Value>immagine\scorcher.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sfondotextbloc.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/sfondotextbloc.png">
+					<Candidate type="Path">
+						<Value>immagine\sfondotextbloc.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shelby.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Shelby.png">
+					<Candidate type="Path">
+						<Value>immagine\Shelby.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SlimePrincess.PNG" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/SlimePrincess.PNG">
+					<Candidate type="Path">
+						<Value>immagine\SlimePrincess.PNG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Starchy.PNG" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Starchy.PNG">
+					<Candidate type="Path">
+						<Value>immagine\Starchy.PNG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Stormo.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Stormo.png">
+					<Candidate type="Path">
+						<Value>immagine\Stormo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Susan.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Susan.png">
+					<Candidate type="Path">
+						<Value>immagine\Susan.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tiffany.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Tiffany.png">
+					<Candidate type="Path">
+						<Value>immagine\Tiffany.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="timer.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/timer.png">
+					<Candidate type="Path">
+						<Value>immagine\timer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="treetrunks.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/treetrunks.png">
+					<Candidate type="Path">
+						<Value>immagine\treetrunks.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Turtleprincess.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/Turtleprincess.png">
+					<Candidate type="Path">
+						<Value>immagine\Turtleprincess.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="twitter.png" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/immagine/twitter.png">
+					<Candidate type="Path">
+						<Value>immagine\twitter.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+				<NamedResource name="Microsoft.Advertising.Mobile.UI.xr.xml" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Microsoft.Advertising.Mobile.UI/Microsoft.Advertising.Mobile.UI.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.Mobile.UI\Microsoft.Advertising.Mobile.UI.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Microsoft.Advertising.Mobile.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Web">
+					<NamedResource name="bootstrap.html" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Microsoft.Advertising.Mobile.UI/Web/bootstrap.html">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Ormma.js" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Files/Microsoft.Advertising.Mobile.UI/Web/Ormma.js">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Common">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdComponentAlreadyInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdComponentHasNotBeenInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppPlatformVersionInvalid" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AppPlatformVersionInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CountryOrRegionLengthInvalid" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CountryOrRegionLengthInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAdUnitId" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAdUnitId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefreshExpanded" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefreshExpanded">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KeywordsExceedMaxLength" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/KeywordsExceedMaxLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NetworkNotAvailable" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NetworkNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OnlyTestAdsAllowedInEmulator" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/OnlyTestAdsAllowedInEmulator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PostalCodeExceedsMaxLength" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/PostalCodeExceedsMaxLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafAdOrPrmMissing" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafAdOrPrmMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafRendererMissingEmptyOrNotAnArray" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafRendererMissingEmptyOrNotAnArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaContentNotFound" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaContentNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Display">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="ActionMenuTitle" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/ActionMenuTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BrowseTextPrefix" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/BrowseTextPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>browse</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CallTextPrefix" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/CallTextPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>call</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CancelButtonText" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/CancelButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ellipses" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/Ellipses">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>...</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ResponseError" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.Display/Strings/ResponseError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+			<ResourceMapSubtree name="WinPhone">
+				<NamedResource name="HtmlForImage" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Microsoft.Advertising.Mobile.UI/WinPhone/HtmlForImage">
+					<Candidate type="String">
+						<Value>&lt;html&gt;&lt;head&gt;&lt;meta name='MobileOptimized' content='{0}' /&gt;&lt;style type="text/css"&gt;@media all {{@-ms-viewport{{user-zoom: fixed;max-zoom: 1;min-zoom: 1;width: device-width;height: device-height;}}}}&lt;/style&gt;&lt;/head&gt;&lt;body style="margin:0;padding:0"&gt;&lt;img src="data:image;base64,{1}" style="width:100%;max-width:100%;max-height:100%;display:block;margin:auto;" /&gt;&lt;/body&gt;&lt;/html&gt;</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<ResourceMapSubtree name="ChiSei">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/ChiSei/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Who are you?</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="chiseidb">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/chiseidb/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>en</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Corrette">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Corrette/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Correct </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Credit">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Credit/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Credits</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="db">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/db/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>livello1.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Domanda">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Domanda/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Are you sure to quit?</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Domande">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Domande/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The Answers are :</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Duello">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Duello/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Duel</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Falso">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Falso/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>FALSE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Gioca">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Gioca/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Play</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Giusto">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Giusto/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>FINNTASTIC!</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Indovina">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Indovina/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Who is that?</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Istruction">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Istruction/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Istructions</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Istruzioni">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Istruzioni/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>eng</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ModalitàQuiz">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/ModalitàQuiz/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>It's Quiz Time</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Punteggio">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Punteggio/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Your Score is :</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Record">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Record/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Records</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Record1">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Record1/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Highscore Quiz</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Record2">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Record2/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Highscore Quiz Time</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Sbagliato">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Sbagliato/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Wrong!</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Si">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Si/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Store">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Store/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Do you want vote this game?</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TimeQuiz">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/TimeQuiz/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Hurry Up!</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Vero">
+				<NamedResource name="Content" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Vero/Content">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>TRUE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Victory">
+				<NamedResource name="Text" uri="ms-resource://33107DreamSoftware.AdventureTimeQuiz/Resources/Victory/Text">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The Winner is </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

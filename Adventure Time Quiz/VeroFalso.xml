@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" ?>
+
+<Quiz>
+  <Domanda id="1" Testo="Nell'episodio : L'armatura Finn e' alla ricerca dell'armatura di Zeldron" Risposta="VERO" />
+  <Domanda id="2" Testo="L'armatura di Zeldron e' custodita in un castello infestato" Risposta="FALSO" />
+  <Domanda id="3" Testo="Snorlock alla fine dell'episodio si fidanza con una chiocciola" Risposta="FALSO" />
+  <Domanda id="4" Testo="Jake suona il violino" Risposta="VERO" />
+  <Domanda id="5" Testo="Jake e' nato dalla testa della madre perche' un mostro cambiaforma l'ha morso" Risposta="FALSO" />
+  <Domanda id="6" Testo="Nell'episodio : Festamania Finn viene rapito da alcuni gnomi" Risposta="VERO" />
+  <Domanda id="7" Testo="Melvaerde impazzisce dopo aver mangiato una torta di mele marce" Risposta="FALSO" />
+  <Domanda id="8" Testo="Nell'episodio : Taglia la Ciocca Finn toglie il berretto per la prima volta" Risposta="VERO" />
+  <Domanda id="9" Testo="Nell'episodio : Scontro con Gelato nel primo baccello di fagiolo magico escono dei maialini" Risposta="VERO" />
+  <Domanda id="10" Testo="I maialini sbucati da uno dei fagioli magici sono allergici alla cioccolata" Risposta="FALSO" />
+  <Domanda id="11" Testo="Finn e' stato il Re dei goblin" Risposta="VERO" />
+  <Domanda id="12" Testo="Finn e' stato il Re degli gnomi" Risposta="FALSO" />
+  <Domanda id="13" Testo="Finn nell'episodio : Il Vero Te e' diventato intelligente indossando degli occhiali" Risposta="VERO" />
+  <Domanda id="14" Testo="Nell'episodio : Il Vero Te Finn chiude il buco nero con un bastone magico" Risposta="FALSO" />
+  <Domanda id="15" Testo="Sam Pennica Ape Rimbalzella e Melma Coniglio sono i nemici del gioco di BMO" Risposta="VERO" />
+  <Domanda id="16" Testo="Marisol la Forzuta vive con la tribu' degli Uma-gatti" Risposta="FALSO" />
+  <Domanda id="17" Testo="Nell'episodio : Treno del Mistero Finn compie 13 anni" Risposta="VERO" />
+  <Domanda id="18" Testo="Ananaso compare per la terza volta in : Il Ritorno dei Dolci Zombie" Risposta="FALSO" />
+  <Domanda id="19" Testo="Ananaso indossa delle calze verdi" Risposta="VERO" />
+  <Domanda id="20" Testo="Nell'episodio : La serata delle Coppiette Finn vede il film con Gommarosa" Risposta="FALSO" />
+  <Domanda id="21" Testo="Il piu' grande sogno di Finn e Jake e' avere un Elefante Tandem Psichico da Guerra" Risposta="VERO" />
+  <Domanda id="22" Testo="Nell'episodio : Il Limite Finn e Jake incontrano i cavalieri Hot Dog" Risposta="VERO" />
+  <Domanda id="23" Testo="Il nome di Billy viene menzionato per la prima volta in Debolezza Mortale" Risposta="VERO" />
+  <Domanda id="24" Testo="Il Lich appare per la prima volta in Debolezza Mortale" Risposta="FALSO" />
+  <Domanda id="25" Testo="Nell'episodio : Ritorno mortale Gommarosa ritorna ad avere 13 anni" Risposta="VERO" />
+  <Domanda id="26" Testo="Wendy Booboo e Georgy sono una banda di teppisti" Risposta="FALSO" />
+  <Domanda id="27" Testo="Wendy Booboo e Georgy vivono in Via del Sangue 25" Risposta="VERO" />
+  <Domanda id="28" Testo="Marceline succhia sia il sangue e sia il colore rosso" Risposta="FALSO" />
+  <Domanda id="29" Testo="Marceline ha piu' di 1000 anni" Risposta="VERO" />
+  <Domanda id="30" Testo="Simon Petrikov regala il pupazzo Hambo a Marceline" Risposta="VERO" />
+  <Domanda id="31" Testo="Marceline suona la chitarra-ascia" Risposta="FALSO" />
+  <Domanda id="32" Testo="I Carini compaiono per la prima volta in : Il Mega Fagottino" Risposta="VERO" />
+  <Domanda id="33" Testo="Jermaine riesce a comunicare con Jake se entrambi sognano allo stesso tempo" Risposta="VERO" />
+  <Domanda id="34" Testo="Joshua e Margaret trovano Finn in fasce attaccato ad una foglia" Risposta="VERO" />
+  <Domanda id="35" Testo="Joshua ha costruito le segrete per irrobustire e temprare Jake" Risposta="FALSO" />
+  <Domanda id="36" Testo="Limoncello appare per la prima volta in : Ritorno alla Realta'" Risposta="VERO" />
+  <Domanda id="37" Testo="Limoncello e' piu' alto di Gommarosa" Risposta="FALSO" />
+  <Domanda id="38" Testo="Limoncello e' il primo esperimento mal riuscito di Gommarosa" Risposta="VERO" />
+  <Domanda id="39" Testo="Nell'episodio : La Battaglia dei Maghi il premio per la vittoria e' una bacchetta magica" Risposta="FALSO" />
+  <Domanda id="40" Testo="Cake e' un personaggio inventato da Re Ghiaccio" Risposta="VERO" />
+  <Domanda id="41" Testo="Il Gufo cosmico dice a Re Ghiaccio che e' un sociopatico" Risposta="VERO" />
+  <Domanda id="42" Testo="Le mele nel linguaggio dei malviventi sono diamanti" Risposta="VERO" />
+  <Domanda id="43" Testo="Nell'episodio Controscherzetto appare per la prima volta Brad" Risposta="FALSO" />
+  <Domanda id="44" Testo="Brad e' il fidanzato di Melissa" Risposta="VERO" />
+  <Domanda id="45" Testo="Finn Jake e Re Ghiaccio imparano ad essere amici da un Golem Di Neve e da un Lupo di Fuoco" Risposta="VERO" />
+  <Domanda id="46" Testo="Nell'episodio : Segreti Natalizi Finn e Jake scoprono la storia di Re Ghiaccio" Risposta="VERO" />
+  <Domanda id="47" Testo="Nell'episodio : Paginelli Contro Muffosi Finn e Jake entrano nella casa di Marceline" Risposta="FALSO" />
+  <Domanda id="48" Testo="Il sovrano della Nottesfera e' la Regina dei licantropi" Risposta="FALSO" />
+  <Domanda id="49" Testo="Per entrare nella Nottesfera bisogna recitare : MALOSO VOBISCUM ET CUM SPIRITUM!" Risposta="VERO" />
+  <Domanda id="50" Testo="Finn consegna l'Enchiridion a Cannello" Risposta="FALSO" />
+  <Domanda id="51" Testo="Goliad e' una gatta rosa telepate creata da Gommarosa" Risposta="VERO" />
+  <Domanda id="52" Testo="Stormo e' stato creato da Gommarosa con il DNA di Finn" Risposta="VERO" />
+  <Domanda id="53" Testo="BMO e' una console per videogiochi maschio" Risposta="FALSO" />
+  <Domanda id="54" Testo="Grob Gob Glob Grod e' un Dio della Terra di Ooo" Risposta="VERO" />
+  <Domanda id="55" Testo="BMO l'investigatore cerca di risolvere il mistero del berretto scomparso di Finn" Risposta="FALSO" />
+  <Domanda id="56" Testo="Gunter in realta' e' Orgalorg" Risposta="VERO" />
+  <Domanda id="57" Testo="I cuccioli di Jake sono : Charlie Kim Kil Whan Jake Jr. T.V e Viola" Risposta="VERO" />
+  <Domanda id="58" Testo="T.V. e' il figlio preferito di Jake" Risposta="FALSO" />
+  <Domanda id="59" Testo="Quando Finn si rasa i capelli diventa Denver" Risposta="FALSO" />
+  <Domanda id="60" Testo="Davey e' l'alterego di Finn" Risposta="VERO" />
+  <Domanda id="61" Testo="Bolla chiede a BMO di sposarlo" Risposta="VERO" />
+  <Domanda id="62" Testo="James Baxter e' un cavallo su un pallone da spiaggia che ripete il suo nome" Risposta="VERO" />
+  <Domanda id="63" Testo="James Baxter e' un animatore che ha lavorato per la Disney e la Dreamworks" Risposta="VERO" />
+  <Domanda id="64" Testo="L'episodio pilota di Adventure Time e' stato trasmesso nel 2009" Risposta="FALSO" />
+  <Domanda id="65" Testo="Il primo episodio della prima stagione e' stato trasmesso nell'aprile del 2010" Risposta="VERO" />
+  <Domanda id="66" Testo="L'episodio Brothers in Insomina e' un episodio mai trasmesso" Risposta="VERO" />
+  <Domanda id="67" Testo="Marshall Lee ha il segno del morso sulla parte destra del collo" Risposta="FALSO" />
+  <Domanda id="68" Testo="Lady Iridella puo' attraversare i muri" Risposta="VERO" />
+  <Domanda id="69" Testo="Lady Iridella vive nella Foresta di Zucchero Filato" Risposta="VERO" />
+  <Domanda id="70" Testo="Lady Iridella parla l'aramaico antico" Risposta="FALSO" />
+  <Domanda id="71" Testo="Marceline racconta a Finn e Jake su di lei e il passato di Re Ghiaccio 996 anni prima" Risposta="VERO" />
+  <Domanda id="72" Testo="Re Ghiaccio crea un virus che cancella qualsiasi cosa tranne lui e Finn" Risposta="FALSO" />
+  <Domanda id="73" Testo="Roselinen e' una ragazza cuscino" Risposta="VERO" />
+  <Domanda id="74" Testo="Durante una Tempesta di Fuoco Jake costruisce un fortino di cuscini" Risposta="FALSO" />
+  <Domanda id="75" Testo="Finn nel mondo Cuscino ha avuto due figli : Jay e Bonnie" Risposta="VERO" />
+  <Domanda id="76" Testo="Shoko e' vissuta 300 anni prima di Finn" Risposta="VERO" />
+  <Domanda id="77" Testo="Shoko muore a Dolcelandia" Risposta="FALSO" />
+  <Domanda id="78" Testo="Finn trova un gatto con una scatola in testa e scopre che e' un principe" Risposta="VERO" />
+  <Domanda id="79" Testo="Solo Finn Jake l'Uomo Banana riparano il camion" Risposta="FALSO" />
+  <Domanda id="80" Testo="Gli ex mariti di Melaverde sono : Wyatt Randy Danny" Risposta="VERO" />
+  <Domanda id="81" Testo="Lemonhope e' stato creato da Gommarosa" Risposta="FALSO" />
+  <Domanda id="82" Testo="Uno dei crimini cosmici e' uccidere Prismo" Risposta="VERO" />
+  <Domanda id="83" Testo="Il vero padre di Finn si chiama Marten" Risposta="FALSO" />
+  <Domanda id="84" Testo="La madre di Finn si chiama Clara" Risposta="FALSO" />
+  <Domanda id="85" Testo="PSB crea una fanfiction su Fionna e Cake" Risposta="VERO" />
+  <Domanda id="86" Testo="In gita Re Ghiaccio e Abracadaniel incontrano un tizio e lo chiamano Giovanni" Risposta="FALSO" />
+  <Domanda id="87" Testo="Gunter era un discepolo di Evergreen" Risposta="VERO" />
+  <Domanda id="88" Testo="La strega Maya compra Hambo da Ash" Risposta="VERO" />
+  <Domanda id="89" Testo="Gommarosa ha mai esclamato : Oh mio Glob! ?" Risposta="VERO" />
+  <Domanda id="90" Testo="Nell'episodio Frost e Fire Finn e Fiamma si lasciano" Risposta="VERO" />
+  <Domanda id="91" Testo="Darren e' uno dei guerrieri che ha ucciso la Pricipessa Fantasma" Risposta="FALSO" />
+  <Domanda id="92" Testo="Clarence e' uno dei guerrieri che ha ucciso la Pricipessa Fantasma" Risposta="VERO" />
+  <Domanda id="93" Testo="L'Amuleto della Nottesfera e'  viola a forma ovale con una catenina d'oro" Risposta="FALSO" />
+  <Domanda id="94" Testo="Nella casa dell'abbraccio mannaro Jake leggeva il libro delle bestie" Risposta="VERO" />
+  <Domanda id="95" Testo="Principessa Principessa Principessa ha 4 teste" Risposta="FALSO" />
+  <Domanda id="96" Testo="La Mela Gemma di Cristallo si trova nella Foresta Malvagia" Risposta="VERO" />
+  <Domanda id="97" Testo="La Mela Gemma di Cristallo e' protetta da un guardiano di pietra" Risposta="FALSO" />
+  <Domanda id="98" Testo="Shakerino comunica solo tramite gesti" Risposta="FALSO" />
+  <Domanda id="99" Testo="Shakerino si nutre di disegni che stacca dai fogli" Risposta="VERO" />
+  <Domanda id="100" Testo="Duca Noce soffre di Carenza da Budino" Risposta="VERO" />
+  <Domanda id="101"
+          Testo="Principessa Gommarosa regala a Shoko un braccio meccanico" Risposta="VERO" />
+  <Domanda id="102"
+           Testo="Betty e' la fidanzata di Simon" Risposta="VERO" />
+  <Domanda id="103"
+           Testo="Il tizio che incontrano Re Ghiaccio e Abracadaniel in gita lo chiamano Giuseppe" Risposta="VERO" />
+  
+</Quiz>

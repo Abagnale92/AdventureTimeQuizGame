@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Adventure_Time_Quiz.Congratulation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/record2.png"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill"/>
+        </Grid.Background>
+        <TextBlock x:Name="testo" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="469" Width="315" FontSize="30" Foreground="Red" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" TextAlignment="Center"/>
+        <Button Content="Home" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Bottom" Foreground="Red" BorderBrush="{x:Null}" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24" Tapped="Button_Tapped">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="immagine/orangebutton.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

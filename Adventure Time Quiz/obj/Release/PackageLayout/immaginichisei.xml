@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<immagini>
+  <Domanda id="1" source="/immagine/Finn.png" testo="sei Finn! Hai un spiccato senso del dovere e una grande forza di volonta'. Inoltre possiedi forza, resistenza e agilita' sovrumane, ma non hai ancora imparato a conquistare il cuore di una principessa! " />
+  <Domanda id="2" source="/immagine/Jake.png" testo="sei Jake! Tu sei il piu' fedele e migliore amico che chiunque potrebbe avere. Quando non stai salvando i tuoi amici da mostri malvagi, probabilmente sei a un mega party a divertirti alla grande. Sai a malapena contare fino a 10, ma sei super forte e un super mentore." />
+  <Domanda id="3" source="/immagine/Princess_Bubblegum.png" testo="sei la Principessa GommaRosa!Sei la principessa carina dai capelli gommosi di Candy Kingdom. Sei super dolce, feroce, e ami il te'. Sei incredibilmente fedele ai tuoi soggetti e il personaggio piu' intelligente nello show. " />
+<Domanda id="4" source="/immagine/Ice_King.png" testo="sei Re Ghiaccio! Sei irascibile, svitato e sociopatico, sei piu' fastidioso che una vera minaccia!Tuttavia nei momenti difficili sai essere di buona compagnia per gli amici che hanno bisogno di te. " />
+  <Domanda id="5" source="/immagine/Marceline.png" testo="sei Marceline!Sei un po' nevrotico appari intimidatorio per alcuni. Ma tu sei un succhia-sangue terrificante e super talentuoso. Ricorda, basta  mantenere la calma se qualcuno prova a mangiare le tue patatine fritte. " />
+  <Domanda id="6" source="/immagine/treetrunks.png" testo="sei Melaverde!Sei estremamente curioso e tendi ad avere un'intensa voglia di viaggiare, sogni di vivere una grande avventura. I tuoi amici ti trovano  gentile e frizzante, sei un ottimo compagno. E si', tu sei l'avventuriero piu' sexy del mondo! " />
+<Domanda id="7" source="/immagine/Bmo.png" testo="sei Bmo!Sei una Console poco indipendente. Tu ami la musica ad alto volume e fare 'weird junk' quando si e' soli. Ai tuoi amici piace quando sei in giro perche' sei generoso sotto il metallo color menta, al tuo interno c'e' un grande cuore d'oro. " />
+  
+</immagini>

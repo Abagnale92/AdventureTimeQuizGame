@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="Adventure_Time_Quiz.Credit"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/altro2.png"/>
+    </Page.Background>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <Button x:ConnectionId='1' Content="Home" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Bottom" Foreground="Red" BorderBrush="{x:Null}" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24"                        Grid.Row="5">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="immagine/orangebutton.png"/>
+            </Button.Background>
+        </Button>
+        <HyperlinkButton x:ConnectionId='2' Content="dreamsoftware@outlook.it"  HorizontalAlignment="Center" Margin="0" Grid.Row="3" VerticalAlignment="Center" Width="385" FontFamily="Tarzan" FontWeight="Bold" FontSize="24" Background="{x:Null}" BorderBrush="White" Foreground="Red"                                />
+        <TextBlock HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="DEVELOPED BY" VerticalAlignment="Center" Height="58" Width="365" Foreground="#FFFF6800" FontFamily="Tarzan" FontSize="24" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="DreamSoftware" VerticalAlignment="Center" Height="58" Width="365" Foreground="Red" FontFamily="Tarzan" FontSize="36" Grid.Row="1" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="email" VerticalAlignment="Center" Height="35" Width="365" Foreground="#FFFF7400" FontFamily="Tarzan" FontSize="24" Grid.Row="2" TextAlignment="Center"/>
+        <Image x:ConnectionId='3' x:Name="tw" Height="70" Margin="0,0,-120,0" Grid.Row="4" VerticalAlignment="Center" Width="75" Stretch="UniformToFill" Source="immagine/twitter.png" HorizontalAlignment="Center" NineGrid="0"                    />
+        <Image x:ConnectionId='4' x:Name="fb" Height="80" Margin="0,0,180,0" Grid.Row="4" VerticalAlignment="Center" Width="80" Source="immagine/facebook.png" Stretch="UniformToFill" HorizontalAlignment="Center"                   />
+
+    </Grid>
+</Page>
+

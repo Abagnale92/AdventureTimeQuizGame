@@ -1,0 +1,3 @@
+MainPackage=C:\Users\P£PP£\documents\visual studio 2013\Projects\Adventure Time Quiz\Adventure Time Quiz\bin\Release\Adventure Time Quiz_1.1.0.3_Bundle\Adventure Time Quiz_1.1.0.3_AnyCPU.appx
+SymbolPackage=C:\Users\P£PP£\documents\visual studio 2013\Projects\Adventure Time Quiz\Adventure Time Quiz\AppPackages\Adventure Time Quiz_1.1.0.3_Test\Adventure Time Quiz_1.1.0.3_AnyCPU.appxsym
+ResourcePack=C:\Users\P£PP£\documents\visual studio 2013\Projects\Adventure Time Quiz\Adventure Time Quiz\bin\Release\Adventure Time Quiz_1.1.0.3_Bundle\Adventure Time Quiz_1.1.0.3_language-it.appx

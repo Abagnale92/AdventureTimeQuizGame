@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+<Domanda id = "1"
+Testo =" Where would you like to live? "
+ a = "Tree House" b = "Candy Kingdom"
+ c = "Ice Kingdom"
+ d = "Fire Kingdom"
+e = "Mars" />
+  
+  <Domanda id = "2"
+            Testo = "how do you defend yourself from a monster?"
+ a = "With a Fist in face"
+b = "Shooting with a gun"
+c = "With the Super Powers"
+d = "Screams and Scares"
+e = " With Cunning "/>
+  <Domanda id = "3"
+Testo = "take a snack"
+a = "Ice Cream Sandwich" b = "Bacon"
+c = "Candy" d = "Pizza"
+e = "Apple Pie" />
+  <Domanda id = "4"
+Testo = "What kind of music do you prefer?"
+a = "Rock"
+b = "Metal"
+c = "Classical"
+d = "Reggae"
+e = "Rap" />
+  <Domanda id = "5"
+Testo = "Choose a game"
+a = "Super Mario"
+b = "Pokemon"
+c = "Kirby"
+d = "Metal Slug"
+e = "Sonic" />
+  <Domanda id = "6"
+Testo = "What do you do on weekends?"
+a = "Sleeping"
+b = "Hanging out with Friends"
+c = "Go to a Party"
+d = "Cinema"
+e = "Are you at home" />
+  <Domanda id = "7"
+Testo = "How do you describe your friends?"
+a = "Jakecosmico"
+b = "Finntastico"
+c = "Fabulous"
+d = "sociopath"
+e = "Dear" />
+  <Domanda id = "8"
+Testo = "What do you like to read?"
+a = "Comics"
+b = "Manga"
+c = "Magazine"
+d = "Book"
+e = "Journal" />
+  <Domanda id = "9"
+Testo = "What subject do you like?"
+a = "Mathematics"
+b = "Science"
+c = "History"
+d = "Literature"
+e = "Gymnastics" />
+  <Domanda id = "10"
+Testo = "What would you be in the future?"
+a = "Adventurer"
+b = "Singer"
+c = "Scientist"
+d = "Actor"
+e = "Doctor" />
+<Domanda id = "11"
+Testo = ""
+a = ""
+b = ""
+c = ""
+d = ""
+e = "" />
+</Quiz>

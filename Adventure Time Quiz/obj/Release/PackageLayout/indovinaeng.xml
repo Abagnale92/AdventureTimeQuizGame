@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id = "1" Immagine = "/immagine/Finn.png" Risposta = "Finn" Errata1 = "BMO" Errata2 = "Jake" Errata3 = "Gunter" />
+    <Domanda id = "2" Immagine = "/immagine/jake.png" Risposta = "Jake" Errata1 = "Marceline" Errata2 = "Glob" Errata3 = "Ice King" />
+    <Domanda id = "3" Immagine = "/immagine/Bmo.png" Risposta = "BMO" Errata1 = "Lady Rainicorn" Errata2 = "Lich" Errata3 = "Grob" />
+    <Domanda id = "4" Immagine = "/immagine/Marceline.png" Risposta = "Marceline" Errata1 = "Lady" Errata2 = "Lich" Errata3 = "Grob" />
+    <Domanda id = "5" Immagine = "/immagine/Ice_King.png" Risposta = "Ice King" Errata1 = "Lady Rainicorn" Errata2 = "Lich" Errata3 = "Glob" />
+    <Domanda id = "6" Immagine = "/immagine/Cannello.png" Risposta = "Torch" Errata1 = "Cinnamon" Errata2 = "Starchy" Errata3 = "James" />
+    <Domanda id = "7" Picture = "/immagine/Gunter.png" Risposta = "Orgalog" Errata1 = "Gunter" Errata2 = "Penguin" Errata3 = "Shelby" />
+    <Domanda id = "8" Immagine = "/immagine/FlamePrincess.png" Risposta = "Princess Flame" Errata1 = "Princess Bubblegum" Errata2 = "Princess Breakfast" Errata3 = "Ghost Princess" />
+    <Domanda id = "9" Immagine = "/immagine/Princess_Bubblegum.png" Risposta = "Princess Bubblegum" Errata1 = "LSB" Errata2 = "Tree Trunks" Errata3 = "Princess Flame" />
+    <Domanda id = "10" Immagine = "/immagine/treetrunks.png" Risposta = "Tree Trunks" Errata1 = "Melissa" Errata2 = "Melarosa" Errata3 = "Jelly" />
+    <Domanda id = "11" Immagine = "/immagine/abracadabra.png" Risposta = "Abracadaniel" Errata1 = "Abracadabra" Errata2 = "Alakazam" Errata3 = "Ann" />
+    <Domanda id = "12" Immagine = "/immagine/AbramoLincoln.png" Risposta = "Abraham Lincoln" Errata1 = "George Washington" Errata2 = "Thomas Jefferson" Errata3 = "Theodore Roosevelt" />
+    <Domanda id = "13" Immagine = "/immagine/ash.png" Risposta = "Ash" Errata1 = "Bob" Errata2 = "Dan" Errata3 = "Shelby" />
+    <Domanda id = "14" Immagine = "/immagine/bananaguardia.png" Risposta = "Banana Guard" Errata1 = "Banana Man" Errata2 = "Banana Peel" Errata3 = "General Banana" />
+    <Domanda id = "15" Immagine = "/immagine/BananaMan.png" Risposta = "Banana Man" Errata1 = "Banana Guard" Errata2 = "Banana Peel" Errata3 = "General Banana" />
+    <Domanda id = "16" Immagine = "/immagine/bellanoche.png" Risposta = "Bella Noche" Errata1 = "Princess Noche" Errata2 = "Ice Queen" Errata3 = "Canyon" />
+    <Domanda id = "17" Immagine = "/immagine/Betty.png" Risposta = "Betty" Errata1 = "Benny" Errata2 = "Annie" Errata3 = "Margaret" />
+    <Domanda id = "18" Immagine = "/immagine/Billy.png" Risposta = "Billy" Errata1 = "Bobby" Errata2 = "Dean" Errata3 = "Charlie" />
+    <Domanda id = "19" Immagine = "/immagine/Biblo.png" Risposta = "Biblo" Errata1 = "Boilbee" Errata2 = "Cuber" Errata3 = "Cobbler" />
+    <Domanda id = "20" Immagine = "/immagine/Bob.png" Risposta = "Bob" Errata1 = "Joshua" Errata2 = "Dann" Errata3 = "Phil" />
+    <Domanda id = "21" Immagine = "/immagine/SlimePrincess.PNG" Risposta = "Princess Slime" Errata1 = "LSB" Errata2 = "Emerald Princess" Errata3 = "Princess Breakfast" />
+    <Domanda id = "22" Immagine = "/immagine/Boilbee.png" Risposta = "Boilbee" Errata1 = "Donny" Errata2 = "Ed" Errata3 = "Biblo" />
+    <Domanda id = "23" Immagine = "/immagine/breakfastprincess.png" Risposta = "Princess Breakfast" Errata1 = "Princess Raspberry" Errata2 = "Princess Forzuta" Errata3 = "Princess Slime" />
+    <Domanda id = "24" Immagine = "/immagine/Cavallo.png" Risposta = "Ice King disguised" Errata1 = "Horse" Errata2 = "Ricardio Disguised" Errata3 = "Pony" />
+    <Domanda id = "25" Immagine = "/immagine/Charlie.png" Risposta = "Charlie" Errata1 = "Cobbler" Errata2 = "Martin" Errata3 = "Monty" />
+    <Domanda id = "26" Immagine = "/immagine/ConteLimoncello.png" Risposta = "Limoncello" Errata1 = "Duke Noce" Errata2 = "Lemonhope" Errata3 = "Omino yellow" />
+    <Domanda id = "27" Immagine = "/immagine/ChooseGoose.png" Risposta = "ChooseGoose" Errata1 = "GooseChoose" Errata2 = "JossGoose" Errata3 = "Donny" />
+    <Domanda id = "28" Immagine = "/immagine/Cingolino.png" Risposta = "Neptr" Errata1 = "BMO" Errata2 = "Moe" Errata3 = "Stove" />
+    <Domanda id = "29" Immagine = "/immagine/Cobbler.png" Risposta = "Cobbler" Errata1 = "Cuber" Errata2 = "Charlie" Errata3 = "Darren" />
+    <Domanda id = "30" Immagine = "/immagine/Cuber.png" Risposta = "Cuber" Errata1 = "Boilbee" Errata2 = "Jam Jam" Errata3 = "Lester" />
+    <Domanda id = "31" Immagine = "/immagine/Danny.png" Risposta = "Danny" Errata1 = "Darren" Errata2 = "Donny" Errata3 = "Ed" />
+    <Domanda id = "32" Immagine = "/immagine/Darren.png" Risposta = "Darren" Errata1 = "Donny" Errata2 = "Danny" Errata3 = "Maja" />
+    <Domanda id = "33" Immagine = "/immagine/Donny.png" Risposta = "Donny" Errata1 = "Darren" Errata2 = "Ed" Errata3 = "Charlie" />
+    <Domanda id = "34" Immagine = "/immagine/Ed.png" Risposta = "Ed" Errata1 = "Flambo" Errata2 = "Brad" Errata3 = "Lester" />
+    <Domanda id = "35" Immagine = "/immagine/Elephant.png" Risposta = "Psychic Tandem War Elephant" Errata1 = "Psychic Tandem War Elephant" Errata2 = "Tandem War Elephant" Errata3 = "Elephant Psychic War "/>
+    <Domanda id = "36" Immagine = "/immagine/EmeraldPrincess.png" Risposta = "Emerald Princess" Errata1 = "Princess Flame" Errata2 = "Ghost Princess" Errata3 = "Princess Slime" />
+    <Domanda id = "37" Immagine = "/immagine/Fionna.png" Risposta = "Fionna" Errata1 = "Fiona" Errata2 = "Cake" Errata3 = "Finna" />
+    <Domanda id = "38" Immagine = "/immagine/Flambo.png" Risposta = "Flambo" Errata1 = "Fiambo" Errata2 = "small fire" Errata3 = "Guard Flame" />
+    <Domanda id = "39" Immagine = "/immagine/flameking.png" Risposta = "Flame King" Errata1 = "Fire King" Errata2 = "General Flame" Errata3 = "Prince Flame" />
+    <Domanda id = "40" Immagine = "/immagine/ghostprincess.png" Risposta = "Ghost Princess" Errata1 = "Phantom Queen" Errata2 = "Canyon" Errata3 = "Phantom of Shoko" />
+    <Domanda id = "41" Immagine = "/immagine/Giuseppe.png" Risposta = "Giuseppe" Errata1 = "John" Errata2 = "Charlie" Errata3 = "Gennaro" />
+    <Domanda id = "42" Immagine = "/immagine/GnomeKnight.png" Risposta = "Gnome Knight" Errata1 = "Goblin Knight" Errata2 = "General Gnome" Errata3 = "General Globlin" />
+    <Domanda id = "43" Immagine = "/immagine/Grob.png" Risposta = "Grob Gob Glob Grod" Errata1 = "Grob Gob Glob" Errata2 = "Grab Gob Glab Grod" Errata3 = "Grob Gab Glob Grad" />
+    <Domanda id = "44" Immagine = "/immagine/gufo.png" Risposta = "Cosmic Owl" Errata1 = "Howard" Errata2 = "Wing" Errata3 = "Orgalorg" />
+    <Domanda id = "45" Immagine = "/immagine/Gunther.png" Risposta = "Gunther" Errata1 = "Hambo" Errata2 = "Howard" Errata3 = "Evergreen" />
+    <Domanda id = "46" Immagine = "/immagine/Hambo.png" Risposta = "Hambo" Errata1 = "Dambo" Errata2 = "Teddy" Errata3 = "Humbo" />
+    <Domanda id = "47" Immagine = "/immagine/Howard.png" Risposta = "Howard" Errata1 = "Jam Jam" Errata2 = "Lauren" Errata3 = "Marshall" />
+    <Domanda id = "48" Immagine = "/immagine/Hunson.png" Risposta = "hunson Abadeer" Errata1 = "Hanson Abadeer" Errata2 = "Hanson" Errata3 = "Abdeer" />
+    <Domanda id = "49" Immagine = "/immagine/Huntress.png" Risposta = "Huntress" Errata1 = "Hontress" Errata2 = "Hentress" Errata3 = "Hantress" />
+    <Domanda id = "50" Immagine = "/immagine/Icequeen.png" Risposta = "Ice Queen" Errata1 = "Ice Princess" Errata2 = "Ice King" Errata3 = "Nice Queen" />
+    <Domanda id = "51" Immagine = "/immagine/jamesbaxter.png" Risposta = "James Baxter" Errata1 = "Phil Baxter" Errata2 = "James Abdeer" Errata3 = "James Jam" />
+    <Domanda id = "52" Immagine = "/immagine/jamjam.png" Risposta = "Jam Jam" Errata1 = "Joshua" Errata2 = "Keyper" Errata3 = "Hambo" />
+    <Domanda id = "53" Immagine = "/immagine/Joshua.png" Risposta = "Joshua" Errata1 = "Jermaine" Errata2 = "Bob" Errata3 = "Jake" />
+    <Domanda id = "54" Immagine = "/immagine/KeyPer.png" Risposta = "Keyper" Errata1 = "KeyFor" Errata2 = "KeyAnt" Errata3 = "KeyOld" />
+    <Domanda id = "55" Immagine = "/immagine/KimKilWhan.png" Risposta = "Whan Kim Kil" Errata1 = "TV" Errata2 = "Jake Jr." Errata3 = "Purple" />
+    <Domanda id = "56" Immagine = "/immagine/kingofOoo.png" Risposta = "King of Ooo" Errata1 = "King of Moon" Errata2 = "King of Gold" Errata3 = "King of Doom" />
+    <Domanda id = "57" Immagine = "/immagine/kingworm.png" Risposta = "Worm King" Errata1 = "Grimby" Errata2 = "Antony" Errata3 = "Hal" />
+    <Domanda id = "58" Immagine = "/immagine/ladyiridella.png" Risposta = "Lady Rainicorn" Errata1 = "Lady Margaret" Errata2 = "Lady" Errata3 = "Lady Unicorn" />
+    <Domanda id = "59" Immagine = "/immagine/Lauren.png" Risposta = "Lauren" Errata1 = "Lester" Errata2 = "Purple" Errata3 = "Nina" />
+    <Domanda id = "60" Immagine = "/immagine/Lester.png" Risposta = "Lester" Errata1 = "Lich" Errata2 = "Lauren" Errata3 = "Martin" />
+    <Domanda id = "61" Immagine = "/immagine/Lich.png" Risposta = "Lich" Errata1 = "Lith" Errata2 = "hunson" Errata3 = "Lauren" />
+    <Domanda id = "62" Immagine = "/immagine/lumaca.png" Risposta = "Snail" Errata1 = "Darren" Errata2 = "Shelby" Errata3 = "Antony" />
+    <Domanda id = "63" Immagine = "/immagine/Maggiormenta.png" Risposta = "Maggiormenta" Errata1 = "Candy" Errata2 = "Maggiorcandito" Errata3 = "mint" />
+    <Domanda id = "64" Immagine = "/immagine/Maja.png" Risposta = "Maja" Errata1 = "Susan" Errata2 = "Melissa" Errata3 = "Muriell" />
+    <Domanda id = "65" Immagine = "/immagine/Marauder.png" Risposta = "Marauder" Errata1 = "Goblin" Errata2 = "Gnome" Errata3 = "Uma-fish" />
+    <Domanda id = "66" Immagine = "/immagine/marshall.png" Risposta = "Marshall" Errata1 = "Marcelino" Errata2 = "Marleen" Errata3 = "Martin" />
+    <Domanda id = "67" Immagine = "/immagine/Martin.png" Risposta = "Martin" Errata1 = "Marcus" Errata2 = "Marshall" Errata3 = "Charlie" />
+    <Domanda id = "68" Immagine = "/immagine/Melissa.png" Risposta = "Melissa" Errata1 = "LSB" Errata2 = "Maja" Errata3 = "Nina" />
+    <Domanda id = "69" Immagine = "/immagine/memow.png" Risposta = "Mow Me" Errata1 = "Monty" Errata2 = "Donny" Errata3 = "PartyPat" />
+    <Domanda id = "70" Immagine = "/immagine/Monty.png" Risposta = "Monty" Errata1 = "Brand" Errata2 = "Bob" Errata3 = "Danny" />
+    <Domanda id = "71" Immagine = "/immagine/MrPasticciotto.png" Risposta = "Mr Cupcake" Errata1 = "Mr Pie" Errata2 = "Mr Pie" Errata3 = "Mr Muscle" />
+    <Domanda id = "72" Immagine = "/immagine/mrpig.png" Risposta = "Mr. Pig" Errata1 = "Mr Bacon" Errata2 = "Mr. Curly Tail" Errata3 = "Mr Chop" />
+    <Domanda id = "73" Immagine = "/immagine/MusclePrincess.png" Risposta = "Princess Forzuta" Errata1 = "Princess Muscle" Errata2 = "Princess Monster" Errata3 = "Emerald Princess" />
+    <Domanda id = "74" Immagine = "/immagine/Nina.png" Risposta = "Nina" Errata1 = "Penny" Errata2 = "Lauren" Errata3 = "Goliad" />
+    <Domanda id = "75" Immagine = "/immagine/Orso.png" Risposta = "Bear" Errata1 = "Bear Dan" Errata2 = "Teddy" Errata3 = "Charlie the Bear" />
+    <Domanda id = "76" Immagine = "/immagine/PartyPat.png" Risposta = "Party Pat" Errata1 = "Party Dan" Errata2 = "Pam Party" Errata3 = "Party Tod" />
+    <Domanda id = "77" Immagine = "/immagine/Peacemaster.png" Risposta = "Master Peace" Errata1 = "War Master" Errata2 = "Silence Master" Errata3 = "Dance Master" />
+    <Domanda id = "78" Immagine = "/immagine/Penny.png" Risposta = "Penny" Errata1 = "Benny" Errata2 = "Betty" Errata3 = "Maja" />
+    <Domanda id = "79" Immagine = "/immagine/Phil.png" Risposta = "Phil" Errata1 = "Donny" Errata2 = "Howard" Errata3 = "Moe" />
+    <Domanda id = "80" Immagine = "/immagine/Pinapina.png" Risposta = "Pina Pina" Errata1 = "Pina" Errata2 = "Pina Colada" Errata3 = "Pinta" />
+    <Domanda id = "81" Immagine = "/immagine/Princeofnuts.png" Risposta = "Duke Noce" Errata1 = "King Nut" Errata2 = "Duke Hazel" Errata3 = "Re arachidonic" />
+    <Domanda id = "82" Immagine = "/immagine/prismo.png" Risposta = "Prismo" Errata1 = "Lism" Errata2 = "Cisco" Errata3 = "Ricardio" />
+    <Domanda id = "83" Immagine = "/immagine/Ricardio.png" Risposta = "Ricardio" Errata1 = "Re Cardio" Errata2 = "King of Hearts" Errata3 = "Alan" />
+    <Domanda id = "84" Immagine = "/immagine/scorcher.png" Risposta = "Scorcher" Errata1 = "Florcher" Errata2 = "Scober" Errata3 = "Stolker" />
+    <Domanda id = "85" Immagine = "/immagine/Shelby.png" Risposta = "Shelby" Errata1 = "Biblo" Errata2 = "Prince Worm" Errata3 = "Ed" />
+    <Domanda id = "86" Immagine = "/immagine/Starchy.PNG" Risposta = "Starchy" Errata1 = "Torch" Errata2 = "Mr Cupcake" Errata3 = "Hutch" />
+    <Domanda id = "87" Immagine = "/immagine/Stormo.png" Risposta = "Wing" Errata1 = "Goliad" Errata2 = "Susan" Errata3 = "James" />
+    <Domanda id = "88" Immagine = "/immagine/Marisol.png" Risposta = "Susan" Errata1 = "Tiffany" Errata2 = "Maja" Errata3 = "Penny" />
+    <Domanda id = "89" Immagine = "/immagine/Tiffany.png" Risposta = "Tiffany" Errata1 = "Nina" Errata2 = "Canyon" Errata3 = "Susan" />
+    <Domanda id = "90" Immagine = "/immagine/Turtleprincess.png" Risposta = "Princess Turtle" Errata1 = "Princess Monster" Errata2 = "Princess Raspberry" Errata3 = "Princess Embryo" />
+    <Domanda id = "91" Immagine = "/immagine/Evergreen.png" Risposta = "Evergreen" Errata1 = "Ice King" Errata2 = "Gunther" Errata3 = "Balthus" />
+</Quiz>

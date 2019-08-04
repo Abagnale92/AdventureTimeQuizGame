@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id="1" 
+           Testo="Nel primo episodio Finn si chiama Pen"
+           Risposta="VERO" />
+  <Domanda id="2"
+           Testo="Nel primo episodio Jake si chiama Joshua"
+           Risposta="FALSO" />
+  <Domanda id="3"
+           Testo="Mr.Bombardino è il primo Dolcibotto a diventare zombie?" Risposta="VERO" />
+  <Domanda id="4"
+           Testo="Nell'episodio : Il Bitorzolo Mannaro il fidanzato di PSB si chiama Johnnie" Risposta="FALSO" />
+  <Domanda id="5"
+           Testo="PSB sta per : Principessa dello Spazio Bitorzolo" Risposta="VERO" />
+  <Domanda id="6"
+           Testo="Nell'episodio : Prigioniere d'amore appare il Gufo Cosmico?" Risposta="VERO" />
+  <Domanda id="7"
+           Testo="Finn è daltonico?" Risposta="VERO" />
+  <Domanda id="8"
+           Testo="Melaverde ha 4 ex-mariti" Risposta="FALSO" />
+  <Domanda id="9"
+           Testo="Il signor Maiale e Melaverde si incontrano per la prima volta in : Sogno d'Amore" Risposta="FALSO" />
+  <Domanda id="10"
+           Testo="C.L.A.I.T. sta per : Cingolino Lancia All'infinito Torte" Risposta="VERO" />
+  <Domanda id="11"
+           Testo="Cingolino e' stato creato da Finn per fare scherzi a Jake" Risposta="VERO" />
+  <Domanda id="12"
+           Testo="La lumaca appare per la prima volta sulla testa di Finn" Risposta="FALSO" />
+  <Domanda id="13"
+           Testo="L'Enchiridion e' il libro dei mostri" Risposta="FALSO" />
+  <Domanda id="14"
+           Testo="Il titolo del capitolo 5 dell'Enchiridion e' : Come Baciare una Principessa" Risposta="VERO" />
+  <Domanda id="15"
+           Testo="La canzone delle patatine è dedicata ad Hunson" Risposta="VERO" />
+  <Domanda id="16"
+           Testo="Il vero nome di Re Ghiaccio e' Simon Petrikov" Risposta="VERO" />
+  <Domanda id="17"
+           Testo="Ricardio e' il cuore di Re Ghiaccio" Risposta="VERO" />
+  <Domanda id="18"
+           Testo="Bufo lo Stregone e' un gatto" Risposta="FALSO" />
+  <Domanda id="19"
+           Testo="Flambo e' un orsetto lavatore" Risposta="FALSO" />
+  <Domanda id="20"
+           Testo="Gli occhi di Maggiormenta sono neri" Risposta="FALSO" />
+  <Domanda id="21"
+           Testo="Il cavallo spione in realta' e' Re Ghiaccio" Risposta="VERO" />
+  <Domanda id="22"
+           Testo="L'omino giallo trasformò Finn in un Piedone" Risposta="VERO" />
+  <Domanda id="23"
+           Testo="Il peluche di Marceline si chiama Dambo" Risposta="FALSO" />
+  <Domanda id="24"
+           Testo="Marceline e' la Regina Vampira" Risposta="VERO" />
+  <Domanda id="25"
+           Testo="Durante la Guerra dei Funghi Marceline ha già il morso nel collo" Risposta="FALSO" />
+  <Domanda id="26"
+           Testo="L'eroe di Finn e Jake si chiama Billy" Risposta="VERO" />
+  <Domanda id="27"
+           Testo="Re Piaccio in realta' e' Re Ghiaccio senza barba" Risposta="VERO" />
+  <Domanda id="28"
+           Testo="Snorlock e' una lumaca di mare" Risposta="FALSO" />
+  <Domanda id="29" 
+           Testo="I genitori di Iridella si chiamano Bob e Ethel" Risposta="VERO" />
+  <Domanda id="30"
+           Testo="Il creatore di BMO e' Moe" Risposta="VERO" />
+  <Domanda id="31"
+           Testo="Nell'episodio: I guardiani del sole uno die nemici del gioco di Bmo è : Sam Pennica" Risposta ="VERO"/>
+  <Domanda id="32"
+           Testo="Il regista di Adventure Time e' Larry Leichliter" Risposta="VERO" />
+  <Domanda id="33"
+           Testo="Finn ha paura dell'oceano" Risposta="VERO" />
+  <Domanda id="34"
+           Testo="I genitori di Jake sono Jermaine e Margaret" Risposta="FALSO" />
+  <Domanda id="35"
+           Testo="Iridella ha partorito 6 cuccioli" Risposta="FALSO" />
+  <Domanda id="36"
+           Testo="Il gufo cosmico appare solo nei sogni" Risposta="VERO" />
+  <Domanda id="37"
+           Testo="Finn da il suo primo bacio a Principessa Fiamma" Risposta="FALSO" />
+  <Domanda id="38"
+           Testo="Principessa Gommarosa regala a Shoko un braccio meccanico" Risposta="VERO" />
+  <Domanda id="39"
+           Testo="Betty e' la fidanzata di Simon" Risposta="VERO" />
+  <Domanda id="40"
+           Testo="Il tizio che incontrano Re Ghiaccio e Abracadaniel in gita lo chiamano Giuseppe" Risposta="VERO" />
+</Quiz>

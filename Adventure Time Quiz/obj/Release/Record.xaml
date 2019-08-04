@@ -1,0 +1,34 @@
+﻿<Page x:ConnectionId='1'
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Adventure_Time_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    x:Class="Adventure_Time_Quiz.Record"
+    mc:Ignorable="d"                     >
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="immagine/record2.png"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85" />
+            <RowDefinition Height="90" />
+            <RowDefinition Height="85" />
+            <RowDefinition Height="90" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock  x:Name="recordQuiz" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="75" Width="115" FontSize="36" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" Foreground="Red" Grid.Row="1" TextAlignment="Center"/>
+        <TextBlock x:Name="recordQuiz2" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Height="75" Width="105" Grid.Row="3" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="36" Foreground="Red" VerticalAlignment="Center" RenderTransformOrigin="0.439,0.435" TextAlignment="Center"/>
+        <TextBlock x:Uid="Record1" x:Name="recordQuizT" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="75" Width="360" FontSize="36" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" Foreground="Red" TextAlignment="Center"/>
+        <TextBlock x:Uid="Record2" x:Name="recordQuizT2" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="75" Width="360" FontSize="36" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" Foreground="Red" Grid.Row="2" TextAlignment="Center"/>
+        <UI:AdControl AutoRefreshIntervalInSeconds="60" ApplicationId="20b705f4-c9e3-4e4a-854f-cc74300e1407" AdUnitId="221221" HorizontalAlignment="Center" Height="50" IsAutoRefreshEnabled="True" Margin="0" Grid.Row="4" VerticalAlignment="Bottom" Width="320"/>
+        <Button x:ConnectionId='2' Content="Home" HorizontalAlignment="Center" Margin="0" Grid.Row="4" VerticalAlignment="Center" Foreground="Red" BorderBrush="{x:Null}" FontFamily="PlainPrint.ttf#PlainPrint" FontWeight="Bold" FontSize="24"                       >
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="immagine/orangebutton.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>
+

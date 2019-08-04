@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id = "1"
+Testo = "In the first episode Finn called Pen"
+Risposta = "TRUE" />
+    <Domanda id = "2"
+Testo = "In the first episode Jake called Joshua"
+Risposta = "FALSE" />
+    <Domanda id = "3"
+Testo = "Mr.Bombardino Dolcibotto is the first to become zombies?" Risposta = "TRUE" />
+    <Domanda id = "4"
+Testo = "episode: The wart werewolf boyfriend PSB is called Johnnie" Risposta = "FALSE" />
+    <Domanda id = "5"
+Testo = "LSB stands for:Lumpy Space Princess" Risposta = "TRUE" />
+    <Domanda id = "6"
+Testo = "episode: Prisoners of love appears Cosmic Owl?" Risposta = "TRUE" />
+    <Domanda id = "7"
+Testo = "Finn is colorblind?" Risposta = "TRUE" />
+    <Domanda id = "8"
+Testo = "Tree Trunks has four ex-husbands" Risposta = "FALSE" />
+    <Domanda id = "9"
+Testo = "Mr. Pig and Tree Trunks meet for the first time in: Dream of Love" Risposta = "FALSE" />
+    <Domanda id = "10"
+Testo = "N.E.P.T.R. stands for: Never-Ending Pie-Throwing Robot" Risposta = "TRUE" />
+    <Domanda id = "11"
+Testo = "Neptr and 'was created by Finn to make jokes to Jake" Risposta = "TRUE" />
+    <Domanda id = "12"
+Testo = "The snail appears for the first time the head of Finn" Risposta = "FALSE" />
+    <Domanda id = "13"
+Testo = "The Enchiridion and 'the book monsters" Risposta = "FALSE" />
+    <Domanda id = "14"
+Testo = "The title of Chapter 5 of the Enchiridion and 'How to Kiss a Princess" Risposta = "TRUE" />
+    <Domanda id = "15"
+Testo = "The song of the chips is dedicated to hunson" Risposta = "TRUE" />
+    <Domanda id = "16"
+Testo = "The real name of Ice King and 'Simon Petrikov" Risposta = "TRUE" />
+    <Domanda id = "17"
+Testo = "Ricardio and 'the heart of Ice King" Risposta = "TRUE" />
+    <Domanda id = "18"
+Testo = "Bufo is the Sorcerer cat" Risposta = "FALSE" />
+    <Domanda id = "19"
+Testo = "Flambo and 'a raccoon" Risposta = "FALSE" />
+    <Domanda id = "20"
+Testo = "The eyes of Peppermint are blacks" Risposta = "FALSE" />
+    <Domanda id = "21"
+Testo = "The horse sneak in reality 'and' Ice King" Risposta = "TRUE" />
+    <Domanda id = "22"
+Testo = "The little man turned yellow Finn in a Big Foot" Risposta = "TRUE" />
+    <Domanda id = "23"
+Testo = "The peluche of Marceline called Dambo" Risposta = "FALSE" />
+    <Domanda id = "24"
+Testo = "Marceline is the Vampire Queen" Risposta = "TRUE" />
+    <Domanda id = "25"
+Testo = "During the War of mushrooms Marceline has already bitten in the neck" Risposta = "FALSE" />
+    <Domanda id = "26"
+Testo = "The hero of Finn and Jake called Billy" Risposta = "TRUE" />
+    <Domanda id = "27"
+Testo = "Nice King is Ice King beardless" Risposta = "TRUE" />
+    <Domanda id = "28"
+Testo = "Snorlock is a sea slug" Risposta = "FALSE" />
+    <Domanda id = "29"
+Testo = "Lady Rainicorn's parents are called Bob and Ethel" Risposta = "TRUE" />
+    <Domanda id = "30"
+Testo = "The creator of BMO and 'Moe" Risposta = "TRUE" />
+    <Domanda id = "31"
+Testo = "episode: The guardians of a sunlit day enemies of the game is BMO: Sleepy Sam " Risposta = "TRUE" />
+    <Domanda id = "32"
+Testo = "Director of Adventure Time and 'Larry Leichliter" Risposta = "TRUE" />
+    <Domanda id = "33"
+Testo = "Finn is afraid of the ocean" Risposta = "TRUE" />
+    <Domanda id = "34"
+Testo = "Jake's parents are Jermaine and Margaret" Risposta = "FALSE" />
+    <Domanda id = "35"
+Testo = "Rainbow Brite gave birth to 6 puppies" Risposta = "FALSE" />
+    <Domanda id = "36"
+Testo = "The Cosmic Owl appears only in dreams" Risposta = "TRUE" />
+    <Domanda id = "37"
+Testo = "Finn from his first kiss Princess Flame" Risposta = "FALSE" />
+    <Domanda id = "38"
+Testo = "Princess Bubblegum gives Shoko a mechanical arm" Risposta = "TRUE" />
+    <Domanda id = "39"
+Testo = "Betty is the girlfriend of Simon" Risposta = "TRUE" />
+    <Domanda id = "40"
+Testo = "The guy who met Ice King and Abracadaniel hike call Giuseppe" Risposta = "TRUE" />
+</Quiz>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <Domanda id="1" Immagine="/immagine/Finn.png" Risposta="Finn" Errata1="Bmo" Errata2="Jake" Errata3="Gunter" />
+  <Domanda id="2" Immagine="/immagine/jake.png" Risposta="Jake" Errata1="Marceline" Errata2="Glob" Errata3="Re Ghiaccio" />
+  <Domanda id="3" Immagine="/immagine/Bmo.png" Risposta="Bmo" Errata1="Lady Iridella" Errata2="Lich" Errata3="Grob" />
+  <Domanda id="4" Immagine="/immagine/Marceline.png" Risposta="Marceline" Errata1="Lady" Errata2="Lich" Errata3="Grob" />
+  <Domanda id="5" Immagine="/immagine/Ice_King.png" Risposta="Ice King" Errata1="Lady Iridella" Errata2="Lich" Errata3="Glob" />
+  <Domanda id="6" Immagine="/immagine/Cannello.png" Risposta="Cannello" Errata1="Cannella" Errata2="Starchy" Errata3="James" />
+  <Domanda id="7" Immagine="/immagine/Gunter.png" Risposta="Orgalog" Errata1="Gunter" Errata2="Pinguino" Errata3="Shelby" />
+  <Domanda id="8" Immagine="/immagine/FlamePrincess.png" Risposta="Principessa Fiamma" Errata1="Principessa Gommarosa" Errata2="Principessa Breakfast" Errata3="Principessa Fantasma" />
+  <Domanda id="9" Immagine="/immagine/Princess_Bubblegum.png" Risposta="Principessa Gommarosa" Errata1="PSB" Errata2="Melaverde" Errata3="Principessa Fiamma" />
+  <Domanda id="10" Immagine="/immagine/treetrunks.png" Risposta="Melaverde" Errata1="Melissa" Errata2="Melarosa" Errata3="Gelatina" />
+  <Domanda id="11" Immagine="/immagine/abracadabra.png" Risposta="Abracadaniel" Errata1="Abracadabra" Errata2="Alakazam" Errata3="Ann" />
+  <Domanda id="12" Immagine="/immagine/AbramoLincoln.png" Risposta="Abramo Lincoln" Errata1="George Washington" Errata2="Thomas Jefferson" Errata3="Theodore Roosevelt" />
+  <Domanda id="13" Immagine="/immagine/ash.png" Risposta="Ash" Errata1="Bob" Errata2="Dan" Errata3="Shelby" />
+  <Domanda id="14" Immagine="/immagine/bananaguardia.png" Risposta="Guardia Banana" Errata1="Banana Man" Errata2="Buccia Banana" Errata3="Generale Banana" />
+  <Domanda id="15" Immagine="/immagine/BananaMan.png" Risposta="Banana Man" Errata1="Guardia Banana" Errata2="Buccia Banana" Errata3="Generale Banana" />
+  <Domanda id="16" Immagine="/immagine/bellanoche.png" Risposta="Bella Noche" Errata1="Principessa Noche" Errata2="Regina Ghiaccio" Errata3="Canyon" />
+  <Domanda id="17" Immagine="/immagine/Betty.png" Risposta="Betty" Errata1="Benny" Errata2="Annie" Errata3="Margaret" />
+  <Domanda id="18" Immagine="/immagine/Billy.png" Risposta="Billy" Errata1="Bobby" Errata2="Dean" Errata3="Charlie" />
+  <Domanda id="19" Immagine="/immagine/Biblo.png" Risposta="Biblo" Errata1="Boilbee" Errata2="Cuber" Errata3="Cobbler" />
+  <Domanda id="20" Immagine="/immagine/Bob.png" Risposta="Bob" Errata1="Joshua" Errata2="Dann" Errata3="Phil" />
+  <Domanda id="21" Immagine="/immagine/SlimePrincess.PNG" Risposta="Principessa Slime" Errata1="PSB" Errata2="Principessa Verde Smeraldo" Errata3="Principessa Breakfast" />
+  <Domanda id="22" Immagine="/immagine/Boilbee.png" Risposta="Boilbee" Errata1="Donny" Errata2="Ed" Errata3="Biblo" />
+  <Domanda id="23" Immagine="/immagine/breakfastprincess.png" Risposta="Principessa Breackfast" Errata1="Principessa Lampone" Errata2="Principessa Forzuta" Errata3="Principessa Slime" />
+  <Domanda id="24" Immagine="/immagine/Cavallo.png" Risposta="Re Ghiaccio travestito" Errata1="Cavallo" Errata2="Ricardio Travestito" Errata3="Pony" />
+  <Domanda id="25" Immagine="/immagine/Charlie.png" Risposta="Charlie" Errata1="Cobbler" Errata2="Martin" Errata3="Monty" />
+  <Domanda id="26" Immagine="/immagine/ConteLimoncello.png" Risposta="Limoncello" Errata1="Duca Noce" Errata2="Lemonhope" Errata3="Omino giallo" />
+  <Domanda id="27" Immagine="/immagine/ChooseGoose.png" Risposta="ChooseGoose" Errata1="GooseChoose" Errata2="JossGoose" Errata3="Donny" />
+  <Domanda id="28" Immagine="/immagine/Cingolino.png" Risposta="Cingolino" Errata1="BMO" Errata2="Moe" Errata3="Fornellino" />
+  <Domanda id="29" Immagine="/immagine/Cobbler.png" Risposta="Cobbler" Errata1="Cuber" Errata2="Charlie" Errata3="Darren" />
+  <Domanda id="30" Immagine="/immagine/Cuber.png" Risposta="Cuber" Errata1="Boilbee" Errata2="Jam Jam" Errata3="Lester" />
+  <Domanda id="31" Immagine="/immagine/Danny.png" Risposta="Danny" Errata1="Darren" Errata2="Donny" Errata3="Ed" />
+  <Domanda id="32" Immagine="/immagine/Darren.png" Risposta="Darren" Errata1="Donny" Errata2="Danny" Errata3="Maja" />
+  <Domanda id="33" Immagine="/immagine/Donny.png" Risposta="Donny" Errata1="Darren" Errata2="Ed" Errata3="Charlie" />
+  <Domanda id="34" Immagine="/immagine/Ed.png" Risposta="Ed" Errata1="Flambo" Errata2="Brad" Errata3="Lester" />
+  <Domanda id="35" Immagine="/immagine/Elephant.png" Risposta="Elefante Tandem Psichico da Guerra" Errata1="Elefante Psichico Tandem da Guerra" Errata2="Elefante Tandem da Guerra" Errata3="Elefante Psichico da Guerra" />
+  <Domanda id="36" Immagine="/immagine/EmeraldPrincess.png" Risposta="Principessa Smeraldo" Errata1="Principessa Fiamma" Errata2="Principessa Fantasma" Errata3="Principessa Slime" />
+  <Domanda id="37" Immagine="/immagine/Fionna.png" Risposta="Fionna" Errata1="Fiona" Errata2="Cake" Errata3="Finna" />
+  <Domanda id="38" Immagine="/immagine/Flambo.png" Risposta="Flambo" Errata1="Fiambo" Errata2="Fuocherello" Errata3="Guardia Fiamma" />
+  <Domanda id="39" Immagine="/immagine/flameking.png" Risposta="Re Fiamma" Errata1="Re Fuoco" Errata2="Generale Fiamma" Errata3="Principe Fiamma" />
+  <Domanda id="40" Immagine="/immagine/ghostprincess.png" Risposta="Principessa Fanstama" Errata1="Regina Fantasma" Errata2="Canyon" Errata3="Fantasma di Shoko" />
+  <Domanda id="41" Immagine="/immagine/Giuseppe.png" Risposta="Giuseppe" Errata1="Giovanni" Errata2="Charlie" Errata3="Gennaro" />
+  <Domanda id="42" Immagine="/immagine/GnomeKnight.png" Risposta="Gnomo Cavaliere" Errata1="Goblin Cavaliere" Errata2="Generale Gnomo" Errata3="Generale Globlin" />
+  <Domanda id="43" Immagine="/immagine/Grob.png" Risposta="Grob Gob Glob Grod" Errata1="Grob Gob Glob" Errata2="Grab Gob Glab Grod" Errata3="Grob Gab Glob Grad" />
+  <Domanda id="44" Immagine="/immagine/gufo.png" Risposta="Gufo Cosmico" Errata1="Howard" Errata2="Stormo" Errata3="Orgalorg" />
+  <Domanda id="45" Immagine="/immagine/Gunther.png" Risposta="Gunther" Errata1="Hambo" Errata2="Howard" Errata3="Evergreen" />
+  <Domanda id="46" Immagine="/immagine/Hambo.png" Risposta="Hambo" Errata1="Dambo" Errata2="Teddy" Errata3="Humbo" />
+  <Domanda id="47" Immagine="/immagine/Howard.png" Risposta="Howard" Errata1="Jam Jam" Errata2="Lauren" Errata3="Marshall" />
+  <Domanda id="48" Immagine="/immagine/Hunson.png" Risposta="Hunson Abadeer" Errata1="Hanson Abadeer" Errata2="Hanson" Errata3="Abdeer" />
+  <Domanda id="49" Immagine="/immagine/Huntress.png" Risposta="Huntress" Errata1="Hontress" Errata2="Hentress" Errata3="Hantress" />
+  <Domanda id="50" Immagine="/immagine/Icequeen.png" Risposta="Regina Ghiaccio" Errata1="Principessa Ghiaccio" Errata2="Re Ghiaccio" Errata3="Regina Piaccio" />
+  <Domanda id="51" Immagine="/immagine/jamesbaxter.png" Risposta="James Baxter" Errata1="Phil Baxter" Errata2="James Abdeer" Errata3="James Jam" />
+  <Domanda id="52" Immagine="/immagine/jamjam.png" Risposta="Jam Jam" Errata1="Joshua" Errata2="Keyper" Errata3="Hambo" />
+  <Domanda id="53" Immagine="/immagine/Joshua.png" Risposta="Joshua" Errata1="Jermaine" Errata2="Bob" Errata3="Jake" />
+  <Domanda id="54" Immagine="/immagine/KeyPer.png" Risposta="KeyPer" Errata1="KeyFor" Errata2="KeyAnt" Errata3="KeyOld" />
+  <Domanda id="55" Immagine="/immagine/KimKilWhan.png" Risposta="Kim Kil Whan" Errata1="T.V." Errata2="Jake Jr." Errata3="Viola" />
+  <Domanda id="56" Immagine="/immagine/kingofOoo.png" Risposta="King of Ooo" Errata1="King of Moon" Errata2="King of Gold" Errata3="King of Doom" />
+  <Domanda id="57" Immagine="/immagine/kingworm.png" Risposta="Re Verme" Errata1="Grimby" Errata2="Antony" Errata3="Hal" />
+  <Domanda id="58" Immagine="/immagine/ladyiridella.png" Risposta="Lady Iridella" Errata1="Lady Margaret" Errata2="Lady" Errata3="Lady Unicorno" />
+  <Domanda id="59" Immagine="/immagine/Lauren.png" Risposta="Lauren" Errata1="Lester" Errata2="Viola" Errata3="Nina" />
+  <Domanda id="60" Immagine="/immagine/Lester.png" Risposta="Lester" Errata1="Lich" Errata2="Lauren" Errata3="Martin" />
+  <Domanda id="61" Immagine="/immagine/Lich.png" Risposta="Lich" Errata1="Lith" Errata2="Hunson" Errata3="Lauren" />
+  <Domanda id="62" Immagine="/immagine/lumaca.png" Risposta="Lumaca" Errata1="Darren" Errata2="Shelby" Errata3="Antony" />
+  <Domanda id="63" Immagine="/immagine/Maggiormenta.png" Risposta="Maggiormenta" Errata1="Candito" Errata2="Maggiorcandito" Errata3="Menta" />
+  <Domanda id="64" Immagine="/immagine/Maja.png" Risposta="Maja" Errata1="Marisol" Errata2="Melissa" Errata3="Muriell" />
+  <Domanda id="65" Immagine="/immagine/Marauder.png" Risposta="Marauder" Errata1="Goblin" Errata2="Gnomo" Errata3="Uma-pesce" />
+  <Domanda id="66" Immagine="/immagine/marshall.png" Risposta="Marshall" Errata1="Marcelino" Errata2="Marleen" Errata3="Martin" />
+  <Domanda id="67" Immagine="/immagine/Martin.png" Risposta="Martin" Errata1="Marcus" Errata2="Marshall" Errata3="Charlie" />
+  <Domanda id="68" Immagine="/immagine/Melissa.png" Risposta="Melissa" Errata1="PSB" Errata2="Maja" Errata3="Nina" />
+  <Domanda id="69" Immagine="/immagine/memow.png" Risposta="Me Mow" Errata1="Monty" Errata2="Donny" Errata3="PartyPat" />
+  <Domanda id="70" Immagine="/immagine/Monty.png" Risposta="Monty" Errata1="Brand" Errata2="Bob" Errata3="Danny" />
+  <Domanda id="71" Immagine="/immagine/MrPasticciotto.png" Risposta="Mr Pasticciotto" Errata1="Mr Pasticcio" Errata2="Mr Tortino" Errata3="Mr Muscolo" />
+  <Domanda id="72" Immagine="/immagine/mrpig.png" Risposta="Signor Maiale" Errata1="Mr Pancetta" Errata2="Signor Coda Riccia" Errata3="Mr Braciola" />
+  <Domanda id="73" Immagine="/immagine/MusclePrincess.png" Risposta="Principessa Forzuta" Errata1="Principessa Muscolo" Errata2="Principessa Mostro" Errata3="Principessa  Smeraldo" />
+  <Domanda id="74" Immagine="/immagine/Nina.png" Risposta="Nina" Errata1="Penny" Errata2="Lauren" Errata3="Goliad" />
+  <Domanda id="75" Immagine="/immagine/Orso.png" Risposta="Orso" Errata1="Orso Dan" Errata2="Teddy" Errata3="Charlie l'Orso" />
+  <Domanda id="76" Immagine="/immagine/PartyPat.png" Risposta="Party Pat" Errata1="Party Dan" Errata2="Party Pam" Errata3="Party Tod" />
+  <Domanda id="77" Immagine="/immagine/Peacemaster.png" Risposta="Peace Master" Errata1="War Master" Errata2="Silence Master" Errata3="Dance Master" />
+  <Domanda id="78" Immagine="/immagine/Penny.png" Risposta="Penny" Errata1="Benny" Errata2="Betty" Errata3="Maja" />
+  <Domanda id="79" Immagine="/immagine/Phil.png" Risposta="Phil" Errata1="Donny" Errata2="Howard" Errata3="Moe" />
+  <Domanda id="80" Immagine="/immagine/Pinapina.png" Risposta="Pina Pina" Errata1="Pina" Errata2="Pina Colada" Errata3="Pinta" />
+  <Domanda id="81" Immagine="/immagine/Princeofnuts.png" Risposta="Duca Noce" Errata1="Re Noce" Errata2="Duca Nocciola" Errata3="Re Arachido" />
+  <Domanda id="82" Immagine="/immagine/prismo.png" Risposta="Prismo" Errata1="Rismo" Errata2="Cisco" Errata3="Ricardio" />
+  <Domanda id="83" Immagine="/immagine/Ricardio.png" Risposta="Ricardio" Errata1="Re Cardio" Errata2="Re di Cuori" Errata3="Alan" />
+  <Domanda id="84" Immagine="/immagine/scorcher.png" Risposta="Scorcher" Errata1="Florcher" Errata2="Scober" Errata3="Stolker" />
+  <Domanda id="85" Immagine="/immagine/Shelby.png" Risposta="Shelby" Errata1="Biblo" Errata2="Principe Verme" Errata3="Ed" />
+  <Domanda id="86" Immagine="/immagine/Starchy.PNG" Risposta="Starchy" Errata1="Cannello" Errata2="Mr. Pasticciotto" Errata3="Hutch" />
+  <Domanda id="87" Immagine="/immagine/Stormo.png" Risposta="Stormo" Errata1="Goliad" Errata2="Susan" Errata3="James" />
+  <Domanda id="88" Immagine="/immagine/Susan.png" Risposta="Susan" Errata1="Tiffany" Errata2="Maja" Errata3="Penny" />
+  <Domanda id="89" Immagine="/immagine/Tiffany.png" Risposta="Tiffany" Errata1="Nina" Errata2="Canyon" Errata3="Susan" />
+  <Domanda id="90" Immagine="/immagine/Turtleprincess.png" Risposta="Principessa Tartaruga" Errata1="Principessa Mostro" Errata2="Principessa Lampone" Errata3="Principessa Embrione" />
+  <Domanda id="91" Immagine="/immagine/Evergreen.png" Risposta="Evergreen" Errata1="Re Ghiaccio" Errata2="Gunther" Errata3="Balthus" />
+</Quiz>
